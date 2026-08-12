@@ -1,0 +1,59 @@
+{
+  "updated": "2026-08-12",
+  "apps": [
+    {
+      "id": "hangman",
+      "name": "No Ad Hangman",
+      "tagline": "The classic word-guessing game, completely ad-free. Choose from hundreds of word packs across dozens of categories.",
+      "icon": "hangman.png",
+      "appStoreUrl": "https://apps.apple.com/app/id6751851920",
+      "playStoreUrl": null,
+      "published": true
+    },
+    {
+      "id": "currencyconverter",
+      "name": "No Ad Currency Converter",
+      "tagline": "Fast, offline-friendly currency conversion with live rates and favorite currencies. Completely ad-free.",
+      "icon": "currencyconverter.png",
+      "appStoreUrl": "https://apps.apple.com/app/id6768122331",
+      "playStoreUrl": null,
+      "published": true
+    },
+    {
+      "id": "tasks",
+      "name": "No Ad Tasks",
+      "tagline": "Track one-time and recurring chores, from calendar-based reminders to usage-based ones like an HVAC filter or an oil change.",
+      "icon": "tasks.png",
+      "appStoreUrl": "https://apps.apple.com/app/id6798489501",
+      "playStoreUrl": null,
+      "published": false
+    },
+    {
+      "id": "pettracker",
+      "name": "No Ad Pet Tracker",
+      "tagline": "Track your pet's full health and care history: medications, vet visits, behavior, vaccines, and an emergency card, all in one place.",
+      "icon": "pettracker.png",
+      "appStoreUrl": null,
+      "playStoreUrl": null,
+      "published": false
+    },
+    {
+      "id": "collections",
+      "name": "No Ad Collections",
+      "tagline": "Track any collection, LEGO, coins, cards, vinyl, whatever, with the fields you define.",
+      "icon": "collections.png",
+      "appStoreUrl": null,
+      "playStoreUrl": null,
+      "published": false
+    },
+    {
+      "id": "mealplanning",
+      "name": "No Ad Meal Planning",
+      "tagline": "Meal planning, a recipe box, and shopping lists for the whole household. Completely ad-free.",
+      "icon": "mealplanning.png",
+      "appStoreUrl": null,
+      "playStoreUrl": null,
+      "published": false
+    }
+  ]
+}
