@@ -1,0 +1,2131 @@
+[
+    {
+        "name": "general_vocab",
+        "words": [
+            "SYNONYM", "ANTONYM", "NOUN", "VERB", "ADJECTIVE", "ADVERB", "PRONOUN", "PREPOSITION", "CONJUNCTION", "ARTICLE", "PHRASE", "CLAUSE", "IDIOM", "METAPHOR", "SIMILE", "ALLITERATION", "HYPERBOLE", "SYNTAX", "VOCABULARY", "PUNCTUATION", "GRAMMAR", "SPELLING", "DEFINITION", "ETYMOLOGY", "CONTEXT"
+        ],
+        "isIncluded": true,
+        "displayName": "Vocabulary Terms",
+        "levelOneName": "General Knowledge",
+        "levelTwoName": "Vocabulary Terms",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+
+    {
+        "name": "general_capitals",
+        "words": [
+            "WASHINGTON", "LONDON", "PARIS", "TOKYO", "BERLIN", "ROME", "OTTAWA", "CANBERRA", "BEIJING", "MOSCOW", "MADRID", "SEOUL", "NEW DELHI", "CAIRO", "BRASILIA", "MEXICO CITY", "BANGKOK", "ATHENS", "HELSINKI", "STOCKHOLM", "VIENNA", "JAKARTA", "RIYADH", "OSLO", "BUENOS AIRES"
+
+        ],
+        "isIncluded": true,
+        "displayName": "Capital Cities",
+        "levelOneName": "General Knowledge",
+        "levelTwoName": "Capital Cities",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "general_landmarks",
+        "words": [
+            "EIFFEL TOWER", "GREAT WALL OF CHINA", "TAJ MAHAL", "STATUE OF LIBERTY", "PYRAMIDS", "BIG BEN", "MOUNT RUSHMORE", "CHRIST THE REDEEMER", "SYDNEY OPERA HOUSE", "BURJ KHALIFA", "STONEHENGE", "COLOSSEUM", "GOLDEN GATE BRIDGE", "LEANING TOWER", "NIAGARA FALLS", "PETRA", "MACHU PICCHU", "ANGKOR WAT", "EMPIRE STATE BUILDING", "SPHINX", "ACROPOLIS", "LOUVRE MUSEUM", "MT FUJI", "ALHAMBRA", "NEUSCHWANSTEIN", "STONEHENGE", "NIAGARA FALLS", "THE LOUVRE", "SAHARA DESERT", "SAGRADA FAMILIA", "CHICHEN ITZA", "TOWER OF LONDON", "TIMES SQUARE"
+        ],
+        "isIncluded": true,
+        "displayName": "World Landmarks",
+        "levelOneName": "General Knowledge",
+        "levelTwoName": "World Landmarks",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "general_inventions",
+        "words": [
+            "LIGHTBULB", "TELEPHONE", "INTERNET", "TELEVISION", "RADIO", "AIRPLANE", "CAR", "PRINTING PRESS", "STEAM ENGINE", "MICROSCOPE", "COMPUTER", "GPS", "CAMERA", "BATTERY", "PENICILLIN", "X RAY", "SMARTPHONE", "ELEVATOR", "REFRIGERATOR", "SATELLITE", "TYPWRITER", "WHEEL", "ZIPPER", "BARCODE", "LASER"
+        ],
+        "isIncluded": true,
+        "displayName": "Famous Inventions",
+        "levelOneName": "General Knowledge",
+        "levelTwoName": "Famous Inventions",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "genearl_Mcreatures",
+        "words": [
+            "DRAGON", "UNICORN", "PHOENIX", "GRIFFIN", "MERMAID", "MINOTAUR", "CENTAUR", "KRAKEN", "PEGASUS", "BASILISK", "LOCH NESS MONSTER", "TROLL", "FAIRY", "DJINN", "LEPRECHAUN", "CHIMERA", "WEREWOLF", "ZOMBIE", "VAMPIRE", "YETI", "BIGFOOT", "BANSHEE", "GARGOYLE", "SUCCUBUS", "MANTICORE"
+        ],
+        "isIncluded": true,
+        "displayName": "Mythical Creatures",
+        "levelOneName": "General Knowledge",
+        "levelTwoName": "Mythical Creatures",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "general_idioms",
+        "words": [
+            "BREAK A LEG", "SPILL THE BEANS", "UNDER THE WEATHER", "BITE THE BULLET", "ON CLOUD NINE", "COSTS AN ARM AND A LEG", "A BLESSING IN DISGUISE", "BARKING UP THE WRONG TREE", "BEAT AROUND THE BUSH", "KICK THE BUCKET", "PULL YOUR LEG", "HIT THE SACK", "LET THE CAT OUT OF THE BAG", "RAINING CATS AND DOGS", "BURN THE MIDNIGHT OIL", "OUT OF THE BLUE", "ON THE FENCE", "A DIME A DOZEN", "BACK TO THE DRAWING BOARD", "PIECE OF CAKE", "THROW IN THE TOWEL", "JUMP THE GUN", "BREAK THE ICE", "THE BALL IS IN YOUR COURT", "DON’T CRY OVER SPILLED MILK", "BETTER LATE THAN NEVER", "CALL IT A DAY", "CUT TO THE CHASE", "EASY DOES IT", "HIT THE NAIL ON THE HEAD", "IN HOT WATER", "KILL TWO BIRDS WITH ONE STONE", "MISS THE BOAT", "NO PAIN NO GAIN", "ON THIN ICE", "WHEN PIGS FLY", "WRAP YOUR HEAD AROUND IT", "YOU CAN SAY THAT AGAIN", "YOUR GUESS IS AS GOOD AS MINE", "TAKE IT WITH A GRAIN OF SALT", "A DROP IN THE BUCKET"
+        ],
+        "isIncluded": true,
+        "displayName": "Common Idioms",
+        "levelOneName": "General Knowledge",
+        "levelTwoName": "Common Idioms",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "general_professions",
+        "words": [
+            "DOCTOR", "TEACHER", "ENGINEER", "LAWYER", "NURSE", "FIREFIGHTER", "POLICE OFFICER", "CHEF", "PILOT", "SCIENTIST", "ARTIST", "DENTIST", "VETERINARIAN", "ACCOUNTANT", "PHARMACIST", "ARCHITECT", "MECHANIC", "PLUMBER", "ELECTRICIAN", "WRITER", "JOURNALIST", "ACTOR", "DIRECTOR", "ATHLETE", "PROGRAMMER"
+        ],
+        "isIncluded": true,
+        "displayName": "Professions",
+        "levelOneName": "General Knowledge",
+        "levelTwoName": "Professions",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_actors",
+        "words": [
+            "ANGELINA JOLIE", "BENEDICT CUMBERBATCH", "BRAD PITT", "CHRIS EVANS", "CHRIS HEMSWORTH", "DANIEL RADCLIFFE", "DENZEL WASHINGTON", "EMMA STONE", "GAL GADOT", "GEORGE CLOONEY", "HARRISON FORD", "HUGH JACKMAN", "JENNIFER LAWRENCE", "JOHNNY DEPP", "KEANU REEVES", "LEONARDO DICAPRIO", "MARGOT ROBBIE", "MERYL STREEP", "NATALIE PORTMAN", "RYAN GOSLING", "SCARLETT JOHANSSON", "TOM CRUISE", "TOM HANKS"
+        ],
+        "isIncluded": true,
+        "displayName": "Movie Stars",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Movie Stars",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_Mquotes",
+        "words": [
+            "FRANKLY MY DEAR I DONT GIVE A DAMN", "HERES LOOKING AT YOU KID", "HOUSTON WE HAVE A PROBLEM", "I AM YOUR FATHER", "I SEE DEAD PEOPLE", "ILL BE BACK", "IM KING OF THE WORLD", "ITS ALIVE", "LIFE IS LIKE A BOX OF CHOCOLATES", "MAY THE FORCE BE WITH YOU", "MY PRECIOUS", "SAY HELLO TO MY LITTLE FRIEND", "SHOW ME THE MONEY", "THERES NO PLACE LIKE HOME", "WHY SO SERIOUS", "YOURE GONNA NEED A BIGGER BOAT", "YOURE KILLING ME SMALLS", "YOURE TEARING ME APART LISA", "YOU TALKIN TO ME", "YOU CANT HANDLE THE TRUTH"
+        ],
+        "isIncluded": false,
+        "displayName": "Movie Quotes",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Movie Quotes",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_oscarfilms",
+        "words": [
+            "AMERICAN BEAUTY", "ARGO", "BRAVEHEART", "CHICAGO", "FORREST GUMP", "GLADIATOR", "GREEN BOOK", "MOONLIGHT", "NO COUNTRY FOR OLD MEN", "PARASITE", "RAIN MAN", "SCHINDLERS LIST", "SHAKESPEARE IN LOVE", "SLUMDOG MILLIONAIRE", "SPOTLIGHT", "TITANIC", "THE ARTIST", "THE DEPARTED", "THE GODFATHER", "THE KINGS SPEECH", "THE SHAPE OF WATER", "THE SILENCE OF THE LAMBS", "UNFORGIVEN"
+        ],
+        "isIncluded": false,
+        "displayName": "Oscar-Winning Films",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Oscar-Winning Films",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_sitcoms",
+        "words": [
+            "CHEERS", "DIFFRENT STROKES", "EVERYBODY LOVES RAYMOND", "FAMILY MATTERS", "FRASIER", "FRESH PRINCE", "FULL HOUSE", "GILLIGANS ISLAND", "HAPPY DAYS", "HOME IMPROVEMENT", "I LOVE LUCY", "MORK AND MINDY", "MURPHY BROWN", "NEWHART", "PERFECT STRANGERS", "ROSEANNE", "SANFORD AND SON", "SEINFELD", "THE ANDY GRIFFITH SHOW", "THE COSBY SHOW", "THE HONEYMOONERS", "THREE COMPANY", "WINGS"
+        ],
+        "isIncluded": false,
+        "displayName": "Classic Sitcoms",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Classic Sitcoms",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "popular_video_games",
+        "words": [
+            "ASSASSINS CREED", "CALL OF DUTY", "CANDY CRUSH", "CLASH OF CLANS", "DONKEY KONG", "ELDEN RING", "FIFA", "FINAL FANTASY", "FORTNITE", "GRAND THEFT AUTO", "HALO", "LEAGUE OF LEGENDS", "LEGEND OF ZELDA", "MINECRAFT", "OVERWATCH", "PAC MAN", "POKEMON", "ROBLOX", "SKYRIM", "SONIC THE HEDGEHOG", "STREET FIGHTER", "SUPER MARIO", "TETRIS", "THE SIMS"
+        ],
+        "isIncluded": false,
+        "displayName": "Popular Video Games",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Popular Video Games",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_Dcharacters",
+        "words": [
+            "ALADDIN", "ARIEL", "AURORA", "BAMBI", "BAYMAX", "BELLE", "CINDERELLA", "DONALD DUCK", "ELSA", "GOOFY", "HERCULES", "JAFAR", "JASMINE", "LIGHTNING MCQUEEN", "MALEFICENT", "MERIDA", "MICKEY MOUSE", "MINNIE MOUSE", "MOANA", "MULAN", "OLAF", "POCAHONTAS", "SIMBA", "STITCH", "WOODY"
+        ],
+        "isIncluded": true,
+        "displayName": "Disney Characters",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Disney Characters",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_pixar",
+        "words": [
+            "BRAVE", "CARS", "COCO", "ELEMENTAL", "FINDING DORY", "FINDING NEMO", "INSIDE OUT", "LUCA", "MONSTERS INC", "RATATOUILLE", "SOUL", "THE GOOD DINOSAUR", "THE INCREDIBLES", "TOY STORY", "TURNING RED", "UP", "WALL E"
+        ],
+        "isIncluded": false,
+        "displayName": "Pixar",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Pixar",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_musicals",
+        "words": [
+            "ANNIE", "BEAUTY AND THE BEAST", "CABARET", "CATS", "CHICAGO", "DEAR EVAN HANSEN", "GREASE", "GUYS AND DOLLS", "HAMILTON", "INTO THE WOODS", "JESUS CHRIST SUPERSTAR", "LES MISERABLES", "LITTLE SHOP OF HORRORS", "MAMMA MIA", "MY FAIR LADY", "NEWSIES", "OKLAHOMA", "RENT", "SIX", "SOUTH PACIFIC", "SWEENY TODD", "THE LION KING", "THE PHANTOM OF THE OPERA", "WICKED", "WEST SIDE STORY"
+        ],
+        "isIncluded": false,
+        "displayName": "Musicals",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Musicals",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_superheroes",
+        "words": [
+            "ANT MAN", "AQUAMAN", "BATMAN", "BLACK PANTHER", "BLACK WIDOW", "CAPTAIN AMERICA", "CAPTAIN MARVEL", "DAREDEVIL", "DEADPOOL", "DOCTOR STRANGE", "FLASH", "GREEN ARROW", "GREEN LANTERN", "HAWKEYE", "IRON MAN", "SCARLET WITCH", "SPAWN", "SPIDER MAN", "STORM", "SUPERMAN", "THOR", "WOLVERINE", "WONDER WOMAN", "X MEN"
+        ],
+        "isIncluded": false,
+        "displayName": "Superheroes",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Superheroes",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_tvshows",
+        "words": [
+            "BETTER CALL SAUL", "BREAKING BAD", "BRIDGERTON", "FRIENDS", "GAME OF THRONES", "GREYS ANATOMY", "HOUSE OF CARDS", "HOW I MET YOUR MOTHER", "LOST", "MODERN FAMILY", "SCHITTS CREEK", "SEINFELD", "STRANGER THINGS", "SUCCESSION", "TED LASSO", "THE BIG BANG THEORY", "THE CROWN", "THE MANDALORIAN", "THE OFFICE", "THE QUEENS GAMBIT", "WANDAVISION", "YELLOWJACKETS", "YELLOWSTONE"
+        ],
+        "isIncluded": true,
+        "displayName": "TV Shows",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "TV Shows",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_gameShows",
+        "words": [
+            "ARE YOU SMARTER THAN A FIFTH GRADER", "DEAL OR NO DEAL", "DOUBLE DARE", "FAMILY FEUD", "HOLLYWOOD SQUARES", "JEOPARDY", "LETS MAKE A DEAL", "NAME THAT TUNE", "PASSWORD", "PRESS YOUR LUCK", "PYRAMID", "SUPER MARKET SWEEP", "TAKESHIS CASTLE", "THE CHASE", "THE PRICE IS RIGHT", "TO TELL THE TRUTH", "WHEEL OF FORTUNE", "WHO WANTS TO BE A MILLIONAIRE", "WIPEOUT", "YOU BET YOUR LIFE"
+        ],
+        "isIncluded": false,
+        "displayName": "Game Shows",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Game Shows",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_boardGames",
+        "words": [
+            "APPLES TO APPLES", "BATTLESHIP", "CANDY LAND", "CHESS", "CLUE", "CRANIUM", "DOMINOES", "GUESS WHO", "JENGA", "LIFE", "MONOPOLY", "MOUSE TRAP", "OPERATION", "PICTIONARY", "RISK", "SCRABBLE", "SCOTLAND YARD", "SORRY", "TABOO", "TICKET TO RIDE", "TRIVIAL PURSUIT", "TROUBLE", "UNO", "SETTLERS OF CATAN"
+        ],
+        "isIncluded": false,
+        "displayName": "Board Games",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Board Games",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_90sCartoons",
+        "words": [
+            "ANIMANIACS", "ARTHUR", "BATMAN THE ANIMATED SERIES", "CAPTAIN PLANET", "DOUG", "ED EDD N EDDY", "FREAKAZOID", "GARGOYLES", "HEYY ARNOLD", "JOHNNY BRAVO", "PINKY AND THE BRAIN", "POKEMON", "POWERPUFF GIRLS", "RECESS", "REN AND STIMPY", "ROCKET POWER", "RUGRATS", "SPONGEBOB SQUAREPANTS", "TAILSPIN", "TEENAGE MUTANT NINJA TURTLES", "THE MAGIC SCHOOL BUS", "THE TICK", "X MEN THE ANIMATED SERIES"
+        ],
+        "isIncluded": false,
+        "displayName": "90s Cartoons",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "90s Cartoons",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_realityTV",
+        "words": [
+            "AMERICAN IDOL", "AMERICAS GOT TALENT", "BIG BROTHER", "CHEFS TABLE", "DANCING WITH THE STARS", "HELLS KITCHEN", "LOVE IS BLIND", "MASTERCHEF", "NAILED IT", "PROJECT RUNWAY", "REAL HOUSEWIVES", "RUPAULS DRAG RACE", "SHARK TANK", "SO YOU THINK YOU CAN DANCE", "SURVIVOR", "TEMPTATION ISLAND", "THE AMAZING RACE", "THE BACHELOR", "THE CIRCLE", "TOP CHEF", "TOO HOT TO HANDLE", "THE VOICE", "THE BLOCK"
+        ],
+        "isIncluded": false,
+        "displayName": "Reality TV",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Reality TV",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "entertainment_comicbooks",
+        "words": [
+            "ARCHIE", "BATMAN", "BLACK PANTHER", "BLADE", "CAPTAIN AMERICA", "DAREDEVIL", "DEADPOOL", "DOCTOR STRANGE", "FLASH", "GREEN ARROW", "GREEN LANTERN", "IRON MAN", "MOON KNIGHT", "SPAWN", "SPIDER MAN", "STATIC SHOCK", "SUPERMAN", "TEEN TITANS", "THOR", "VENOM", "WONDER WOMAN"
+        ],
+        "isIncluded": false,
+        "displayName": "Comic Books",
+        "levelOneName": "Entertainment",
+        "levelTwoName": "Comic Books",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_harryPotter",
+        "words": [
+            "ALBUS DUMBLEDORE", "BASILISK", "BELLATRIX LESTRANGE", "CHAMBER OF SECRETS", "DARK ARTS", "DEATHLY HALLOWS", "DEMENTOR", "DRACO MALFOY", "FIREBOLT", "FRED WEASLEY", "GINNY WEASLEY", "GOBLET OF FIRE", "GRYFFINDOR", "HAGRID", "HARRY POTTER", "HERMIONE GRANGER", "HOGWARTS", "HORCRUX", "LORD VOLDEMORT", "LUNA LOVEGOOD", "MAGICAL CREATURES", "MARAUDERS MAP", "NEVILLE LONGBOTTOM", "POTIONS CLASS", "QUIDDITCH", "RON WEASLEY", "SEVERUS SNAPE", "SORCERERS STONE", "SPELLBOOK", "WAND"
+        ],
+        "isIncluded": true,
+        "displayName": "Harry Potter",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Harry Potter",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_shakespeare",
+        "words": [
+            "ANTONY AND CLEOPATRA", "AS YOU LIKE IT", "BRUTUS", "CORIOLANUS", "HAMLET", "HENRY V", "JULIUS CAESAR", "KING LEAR", "LADY MACBETH", "MACBETH", "MIDSUMMER NIGHTS DREAM", "MUCH ADO ABOUT NOTHING", "OTHELLO", "PORTIA", "PROSPERO", "ROMEO AND JULIET", "ROSALIND", "THE MERCHANT OF VENICE", "THE TAMING OF THE SHREW", "THE TEMPEST", "THE WINTERS TALE", "TITUS ANDRONICUS", "TWELFTH NIGHT"
+        ],
+        "isIncluded": false,
+        "displayName": "Shakespeare Plays",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Shakespeare Plays",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_classics",
+        "words": [
+            "A TALE OF TWO CITIES", "ANNA KARENINA", "BRAVE NEW WORLD", "CRIME AND PUNISHMENT", "DON QUIXOTE", "DRACULA", "FRANKENSTEIN", "GREAT EXPECTATIONS", "JANE EYRE", "LES MISERABLES", "LITTLE WOMEN", "MOBY DICK", "OLIVER TWIST", "PRIDE AND PREJUDICE", "REBECCA", "THE CATCHER IN THE RYE", "THE GREAT GATSBY", "THE HUNCHBACK OF NOTRE DAME", "THE ODYSSEY", "THE SCARLET LETTER", "TO KILL A MOCKINGBIRD", "TREASURE ISLAND", "WUTHERING HEIGHTS"
+        ],
+        "isIncluded": false,
+        "displayName": "Classic Novels",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Classic Novels",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_childrens",
+        "words": [
+            "CHARLOTTES WEB", "CURIOUS GEORGE", "FROG AND TOAD", "GOODNIGHT MOON", "GREEN EGGS AND HAM", "IF YOU GIVE A MOUSE A COOKIE", "JUNIE B JONES", "LITTLE BEAR", "MADLINE", "MATILDA", "PETER RABBIT", "RAMONA QUIMBY", "STELLALUNA", "STUART LITTLE", "THE BFG", "THE CAT IN THE HAT", "THE GIVING TREE", "THE GRUFFALO", "THE LORAX", "THE POLAR EXPRESS", "THE VERY HUNGRY CATERPILLAR", "WHERE THE SIDEWALK ENDS", "WHERE THE WILD THINGS ARE", "WINNIE THE POOH"
+        ],
+        "isIncluded": false,
+        "displayName": "Children's Books",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Children's Books",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_authors",
+        "words": [
+            "AGATHA CHRISTIE", "CHARLES DICKENS", "CHARLOTTE BRONTE", "DAN BROWN", "DR SEUSS", "EDGAR ALLAN POE", "ERNEST HEMINGWAY", "GEORGE ORWELL", "HARPER LEE", "JK ROWLING", "JD SALINGER", "JRR TOLKIEN", "JAMES JOYCE", "JANE AUSTEN", "MARK TWAIN", "MAYA ANGELOU", "STEPHEN KING", "SYLVIA PLATH", "TONI MORRISON", "VIRGINIA WOOLF", "WILLIAM FAULKNER", "WILLIAM SHAKESPEARE", "BRANDON SANDERSON"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Authors",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Famous Authors",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_genres",
+        "words": [
+            "AUTOBIOGRAPHY", "CLASSIC", "COMEDY", "DYSTOPIAN", "EPIC POETRY", "ESSAY", "FABLE", "FAIRY TALE", "FANTASY", "FICTION", "GOTHIC", "GRAPHIC NOVEL", "HISTORICAL FICTION", "HORROR", "MAGICAL REALISM", "MEMOIR", "MYSTERY", "NONFICTION", "ROMANCE", "SATIRE", "SCIENCE FICTION", "SHORT STORY", "THRILLER", "TRAGEDY", "YOUNG ADULT"
+        ],
+        "isIncluded": false,
+        "displayName": "Literary Genres",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Literary Genres",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_Mfiction",
+        "words": [
+            "A MAN CALLED OVE", "AMERICAN DIRT", "ATLAS SIX", "BEACH READ", "CIRCE", "CLOUD CUCKOO LAND", "DAISY JONES AND THE SIX", "IT ENDS WITH US", "LESSONS IN CHEMISTRY", "MAD HONEY", "NORMAL PEOPLE", "SEVENTH HUSBAND OF EVELYN HUGO", "SHATTER ME", "TOMORROW AND TOMORROW AND TOMORROW", "VERITY", "WHERE THE CRAWDADS SING"
+        ],
+        "isIncluded": false,
+        "displayName": "Modern Fiction",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Modern Fiction",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_mysteries",
+        "words": [
+            "AND THEN THERE WERE NONE", "BIG LITTLE LIES", "DA VINCI CODE", "GONE GIRL", "IN THE WOODS", "MURDER ON THE ORIENT EXPRESS", "REBECCA", "SHERLOCK HOLMES", "SILENT PATIENT", "THE GIRL WITH THE DRAGON TATTOO", "THE LINCOLN LAWYER", "THE WOMAN IN CABIN TEN", "THE WOMAN IN THE WINDOW", "VERITY", "WHEN NO ONE IS WATCHING"
+        ],
+        "isIncluded": false,
+        "displayName": "Mystery Novels",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Mystery Novels",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "books_poets",
+        "words": [
+            "ALLEN GINSBERG", "CARL SANDBURG", "DANTE", "EMILY DICKINSON", "EZRA POUND", "LANGSTON HUGHES", "MAYA ANGELOU", "PABLO NERUDA", "ROBERT BROWNING", "ROBERT FROST", "RUMI", "SHEL SILVERSTEIN", "SYLVIA PLATH", "TENNYSON", "WALT WHITMAN", "WILLIAM BLAKE", "WILLIAM SHAKESPEARE", "WILLIAM WORDSWORTH", "WYSTAN H AUDEN", "YEATS"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Poets",
+        "levelOneName": "Books & Literature",
+        "levelTwoName": "Famous Poets",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "science_periodicT",
+        "words": [
+            "ALKALI", "METALLOIDS", "ACTINIDES", "ALKALINE", "REACTIVE", "TRANSITION", "NOBLE GASES", "LANTHANIDES", "ATOM", "NEUTRON", "PROTON", "ELECTRON", "ATOMIC NUMBER", "NONMETALLIC", "DMITRI MENDELEEV", "ISOTOPE",
+"HYDROGEN", "HELIUM", "LITHIUM", "BERYLLIUM", "BORON", "CARBON", "NITROGEN", "OXYGEN", "FLUORINE", "NEON",
+"SODIUM", "MAGNESIUM", "ALUMINUM", "SILICON", "PHOSPHORUS", "SULFUR", "CHLORINE", "ARGON", "POTASSIUM", "CALCIUM",
+"SCANDIUM", "TITANIUM", "VANADIUM", "CHROMIUM", "MANGANESE", "IRON", "COBALT", "NICKEL", "COPPER", "ZINC",
+"GALLIUM", "GERMANIUM", "ARSENIC", "SELENIUM", "BROMINE", "KRYPTON", "RUBIDIUM", "STRONTIUM", "YTTRIUM", "ZIRCONIUM",
+"NIOBIUM", "MOLYBDENUM", "TECHNETIUM", "RUTHENIUM", "RHODIUM", "PALLADIUM", "SILVER", "CADMIUM", "INDIUM", "TIN",
+"ANTIMONY", "TELLURIUM", "IODINE", "XENON", "CESIUM", "BARIUM", "LANTHANUM", "CERIUM", "PRASEODYMIUM", "NEODYMIUM",
+"PROMETHIUM", "SAMARIUM", "EUROPIUM", "GADOLINIUM", "TERBIUM", "DYSPROSIUM", "HOLMIUM", "ERBIUM", "THULIUM", "YTTERBIUM","LUTETIUM", "HAFNIUM", "TANTALUM", "TUNGSTEN", "RHENIUM", "OSMIUM", "IRIDIUM", "PLATINUM", "GOLD", "MERCURY","THALLIUM", "LEAD", "BISMUTH", "POLONIUM", "ASTATINE", "RADON", "FRANCIUM", "RADIUM", "ACTINIUM", "THORIUM",
+"PROTACTINIUM", "URANIUM", "NEPTUNIUM", "PLUTONIUM", "AMERICIUM", "CURIUM", "BERKELIUM", "CALIFORNIUM", "EINSTEINIUM", "FERMIUM","MENDELEVIUM", "NOBELIUM", "LAWRENCIUM", "RUTHERFORDIUM", "DUBNIUM", "SEABORGIUM", "BOHRIUM", "HASSIUM", "MEITNERIUM", "DARMSTADTIUM","ROENTGENIUM", "COPERNICIUM", "NIHONIUM", "FLEROVIUM", "MOSCOVIUM", "LIVERMORIUM", "TENNESSINE", "OGANESSON"
+        ],
+        "isIncluded": false,
+        "displayName": "The Periodic Table",
+        "levelOneName": "Science",
+        "levelTwoName": "The Periodic Table",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "science_Hanatomy",
+        "words": [
+            "APPENDIX", "ARTERIES", "BLOOD VESSELS", "BRAIN", "BRONCHI", "CEREBELLUM", "DIAPHRAGM", "ESOPHAGUS", "EYES", "FEMUR", "HEART", "INTESTINES", "KIDNEYS", "LARYNX", "LIVER", "LUNGS", "MUSCLES", "NERVES", "PANCREAS", "PHARYNX", "RIBCAGE", "SKIN", "SPINAL CORD", "SPLEEN", "STOMACH", "TEETH", "TENDONS", "THYROID", "TRACHEA", "VEINS"
+        ],
+        "isIncluded": false,
+        "displayName": "Human Anatomy",
+        "levelOneName": "Science",
+        "levelTwoName": "Human Anatomy",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "science_astronomy",
+        "words": [
+            "ANDROMEDA", "ASTEROID", "BIG BANG", "BLACK HOLE", "COMET", "CONSTELLATION", "COSMOS", "EARTH", "ECLIPSE", "GALAXY", "GRAVITY", "HALLEYS COMET", "JUPITER", "LIGHT YEAR", "MARS", "MERCURY", "METEOR", "MILKY WAY", "MOON", "NEPTUNE", "ORBIT", "PLANET", "PLUTO", "SATELLITE", "SATURN", "SOLAR FLARE", "SOLAR SYSTEM", "STAR", "SUN", "TELESCOPE", "URANUS", "VENUS"
+        ],
+        "isIncluded": true,
+        "displayName": "Astronomy",
+        "levelOneName": "Science",
+        "levelTwoName": "Astronomy",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "science_famousS",
+        "words": [
+            "ALEXANDER FLEMING", "ALBERT EINSTEIN", "ALFRED NOBEL", "BARBARA MCCLINTOCK", "BENJAMIN FRANKLIN", "CARL SAGAN", "CHARLES DARWIN", "DOROTHY HODGKIN", "GALILEO GALILEI", "GEORGE WASHINGTON CARVER", "GREGOR MENDEL", "ISAAC NEWTON", "JANE GOODALL", "JOCELYN BELL BURNELL", "LOUIS PASTEUR", "MARIE CURIE", "MICHAEL FARADAY", "NEIL DEGRASSE TYSON", "NICOLAUS COPERNICUS", "NICOLA TESLA", "RACHEL CARSON", "RICHARD FEYNMAN", "ROSALIND FRANKLIN", "STEPHEN HAWKING", "THOMAS EDISON"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Scientists",
+        "levelOneName": "Science",
+        "levelTwoName": "Famous Scientists",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "science_biology",
+        "words": [
+            "ADAPTATION", "BACTERIA", "CELL MEMBRANE", "CHLOROPHYLL", "CHROMOSOME", "CILIA", "CROSSBREEDING", "CYTOPLASM", "DARWINISM", "DNA", "ECOSYSTEM", "ENZYME", "EVOLUTION", "GENETICS", "HABITAT", "HOMEOSTASIS", "MEIOSIS", "MITOSIS", "MUTATION", "NUCLEUS", "PHOTOSYNTHESIS", "PROTEIN", "REPRODUCTION", "RNA", "SPECIES", "TRAIT", "TROPHIC LEVEL", "VIRUS", "ZYGOTE"
+        ],
+        "isIncluded": false,
+        "displayName": "Biology",
+        "levelOneName": "Science",
+        "levelTwoName": "Biology",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "science_chemistry",
+        "words": [
+            "ACID", "ALKALI", "ATOM", "BALANCED EQUATION", "BASE", "BOILING POINT", "CATALYST", "CHEMICAL BOND", "CHEMICAL REACTION", "COMPOUND", "CONCENTRATION", "COVALENT", "DENSITY", "ELECTRON", "ELEMENT", "ENDOTHERMIC", "ENZYME", "EXOTHERMIC", "GAS", "ION", "IONIC BOND", "ISOTOPE", "MOLECULE", "NEUTRON", "NUCLEUS", "PRECIPITATE", "PROTON", "REACTION", "SOLUTION", "SOLVENT"
+        ],
+        "isIncluded": false,
+        "displayName": "Chemistry",
+        "levelOneName": "Science",
+        "levelTwoName": "Chemistry",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "science_physics",
+        "words": [
+            "ACCELERATION", "ATOMIC THEORY", "BLACK HOLE", "CONDUCTION", "DENSITY", "ELECTRIC CURRENT", "ELECTROMAGNETISM", "ENERGY", "FORCE", "FREQUENCY", "FRICTION", "FUSION", "GRAVITY", "INERTIA", "KINETIC ENERGY", "LIGHT", "MAGNETISM", "MASS", "MOMENTUM", "NEWTONS LAWS", "POTENTIAL ENERGY", "QUANTUM", "RELATIVITY", "SPEED", "THERMODYNAMICS", "VELOCITY", "VOLTAGE", "WAVE", "WORK"
+        ],
+        "isIncluded": false,
+        "displayName": "Physics",
+        "levelOneName": "Science",
+        "levelTwoName": "Physics",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "science_weather",
+        "words": [
+            "ATMOSPHERE", "BAROMETER", "BLIZZARD", "CLOUD", "COLD FRONT", "DEW POINT", "DROUGHT", "FOG", "FORECAST", "HAIL", "HUMIDITY", "HURRICANE", "ISOBAR", "JET STREAM", "LIGHTNING", "MONSOON", "PRECIPITATION", "RAINFALL", "SNOW", "STORM", "THERMOMETER", "THUNDER", "TORNADO", "TROPICAL STORM", "WIND", "WIND CHILL"
+        ],
+        "isIncluded": false,
+        "displayName": "Weather",
+        "levelOneName": "Science",
+        "levelTwoName": "Weather",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geometry_terms",
+        "words": [
+            "ANGLE", "AREA", "AXIS", "CIRCLE", "CIRCUMFERENCE", "COORDINATE", "CUBE", "DIAGONAL", "DIAMETER", "HEXAGON", "HYPOTENUSE", "INTERSECTION", "ISOSCELES", "LINE", "PARALLEL", "PERIMETER", "PERPENDICULAR", "PLANE", "POLYGON", "PYRAMID", "QUADRILATERAL", "RADIUS", "RECTANGLE", "RHOMBUS", "SPHERE", "SQUARE", "TRAPEZOID", "TRIANGLE", "VERTEX", "VOLUME"
+        ],
+        "isIncluded": true,
+        "displayName": "Geometry Terms",
+        "levelOneName": "Math & Logic",
+        "levelTwoName": "Geometry Terms",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "algebra_vocabulary",
+        "words": [
+            "COEFFICIENT", "CONSTANT", "DISTRIBUTIVE", "EQUATION", "EXPRESSION", "FACTORING", "FUNCTION", "INEQUALITY", "INTEGER", "INTERCEPT", "LINEAR", "MONOMIAL", "PARABOLA", "POLYNOMIAL", "QUADRATIC", "RADICAL", "RATIONAL", "ROOT", "SLOPE", "SOLUTION", "SUBSTITUTION", "TERM", "VARIABLE", "VERTEX", "ZERO"
+        ],
+        "isIncluded": false,
+        "displayName": "Algebra Vocabulary",
+        "levelOneName": "Math & Logic",
+        "levelTwoName": "Algebra Vocabulary",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "logic_puzzles",
+        "words": [
+            "ANALOGY", "BINARY", "CIPHER", "CLUE", "CROSSWORD", "CRYPTIC", "DEDUCTION", "ENIGMA", "GRID", "INFERENCE", "INSIGHT", "JIGSAW", "KNIGHTS", "LOGIC", "MAZE", "NONOGRAM", "PATTERN", "PROPOSITION", "PUZZLE", "RIDDLE", "SUDOKU", "SYMBOL", "TRUTH TABLE", "WORD LADDER", "ZEBRA PUZZLE"
+        ],
+        "isIncluded": false,
+        "displayName": "Logic Puzzles",
+        "levelOneName": "Math & Logic",
+        "levelTwoName": "Logic Puzzles",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "famous_mathematicians",
+        "words": [
+            "ALBERT EINSTEIN", "ALAN TURING", "ARCHIMEDES", "BLAISE PASCAL", "CARL GAUSS", "EUCLID", "FIBONACCI", "GEORGE BOOLE", "ISAAC NEWTON", "JOHN NASH", "JOHANNES KEPLER", "KURT GODEL", "LEONHARD EULER", "MARIA AGNESI", "MARY CARTWRIGHT", "PIERRE FERMAT", "RICHARD FEYNMAN", "SOPHIE GERMAIN", "SRINIVASA RAMANUJAN", "RENE DESCARTES"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Mathematicians",
+        "levelOneName": "Math & Logic",
+        "levelTwoName": "Famous Mathematicians",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "statistics",
+        "words": [
+            "AVERAGE", "BAR GRAPH", "BELL CURVE", "BOX PLOT", "CAUSATION", "CORRELATION", "DATA", "DEVIATION", "EVENT", "FREQUENCY", "HISTOGRAM", "INTERVAL", "MEAN", "MEDIAN", "MODE", "NORMAL DISTRIBUTION", "OUTLIER", "PERCENTILE", "POPULATION", "PROBABILITY", "RANGE", "REGRESSION", "SAMPLE", "STANDARD DEVIATION", "VARIABLE", "VARIANCE"
+        ],
+        "isIncluded": false,
+        "displayName": "Statistics",
+        "levelOneName": "Math & Logic",
+        "levelTwoName": "Statistics",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_usStates",
+        "words": [
+            "ALABAMA", "ALASKA", "ARIZONA", "ARKANSAS", "CALIFORNIA", "COLORADO", "CONNECTICUT", "DELAWARE", "FLORIDA", "GEORGIA", "HAWAII", "IDAHO", "ILLINOIS", "INDIANA", "IOWA", "KANSAS", "KENTUCKY", "LOUISIANA", "MAINE", "MARYLAND", "MASSACHUSETTS", "MICHIGAN", "MINNESOTA", "MISSISSIPPI", "MISSOURI", "MONTANA", "NEBRASKA", "NEVADA", "NEW HAMPSHIRE", "NEW JERSEY", "NEW MEXICO", "NEW YORK", "NORTH CAROLINA", "NORTH DAKOTA", "OHIO", "OKLAHOMA", "OREGON", "PENNSYLVANIA", "RHODE ISLAND", "SOUTH CAROLINA", "SOUTH DAKOTA", "TENNESSEE", "TEXAS", "UTAH", "VERMONT", "VIRGINIA", "WASHINGTON", "WEST VIRGINIA", "WISCONSIN", "WYOMING"
+        ],
+        "isIncluded": true,
+        "displayName": "US States",
+        "levelOneName": "Geography",
+        "levelTwoName": "US States",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_europeanCountries",
+        "words": [
+            "ALBANIA", "ANDORRA", "ARMENIA", "AUSTRIA", "AZERBAIJAN", "BELARUS", "BELGIUM", "BOSNIA AND HERZEGOVINA", "BULGARIA", "CROATIA", "CYPRUS", "CZECHIA", "DENMARK", "ESTONIA", "FINLAND", "FRANCE", "GEORGIA", "GERMANY", "GREECE", "HUNGARY", "ICELAND", "IRELAND", "ITALY", "KAZAKHSTAN", "KOSOVO", "LATVIA", "LIECHTENSTEIN", "LITHUANIA", "LUXEMBOURG", "MALTA", "MOLDOVA", "MONACO", "MONTENEGRO", "NETHERLANDS", "NORTH MACEDONIA", "NORWAY", "POLAND", "PORTUGAL", "ROMANIA", "SAN MARINO", "SERBIA", "SLOVAKIA", "SLOVENIA", "SPAIN", "SWEDEN", "SWITZERLAND", "TURKEY", "UKRAINE", "UNITED KINGDOM", "VATICAN CITY"
+        ],
+        "isIncluded": true,
+        "displayName": "European Countries",
+        "levelOneName": "Geography",
+        "levelTwoName": "European Countries",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_africanCapitals",
+        "words": [
+            "ABUJA", "ACCRA", "ADDIS ABABA", "ALGIERS", "ANTANANARIVO", "ASMARA", "BAMAKO", "BANGUI", "BANJUL", "BISSAU", "BRAZZAVILLE", "BUJUMBURA", "CAIRO", "CONAKRY", "DAKAR", "DJIBOUTI", "DODOMA", "EL AAIUN", "FREETOWN", "GABORONE", "HARARE", "JUBA", "KAMPALA", "KHARTOUM", "KINSHASA", "LIBREVILLE", "LILONGWE", "LOME", "LUANDA", "LUSAKA", "MALABO", "MAPUTO", "MASERU", "MBABANE", "MOGADISHU", "MONROVIA", "NAIROBI", "NIAMEY", "NOUAKCHOTT", "OUAGADOUGOU", "PORT LOUIS", "PORTO-NOVO", "PRAIA", "RABAT", "SAO TOME", "TRIPOLI", "TUNIS", "VICTORIA", "WINDHOEK", "YAOUNDE", "YAMOUSSOUKRO", "ZINDER"
+        ],
+        "isIncluded": true,
+        "displayName": "African Capitals",
+        "levelOneName": "Geography",
+        "levelTwoName": "African Capitals",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_mountainRanges",
+        "words": [
+            "ALPS", "ANDES", "APALACHIANS", "ATLAS", "CARPATHIANS", "HIMALAYAS", "PYRENEES", "ROCKIES", "SIERRA NEVADA", "URALS", "ZAGROS"
+        ],
+        "isIncluded": true,
+        "displayName": "Mountain Ranges",
+        "levelOneName": "Geography",
+        "levelTwoName": "Mountain Ranges",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_usCities",
+        "words": [
+            "ATLANTA", "AUSTIN", "BOSTON", "CHICAGO", "DALLAS", "DENVER", "DETROIT", "HOUSTON", "LAS VEGAS", "LOS ANGELES", "MIAMI", "MINNEAPOLIS", "NASHVILLE", "NEW ORLEANS", "NEW YORK", "ORLANDO", "PHILADELPHIA", "PHOENIX", "PORTLAND", "SAN ANTONIO", "SAN DIEGO", "SAN FRANCISCO", "SEATTLE", "ST LOUIS", "WASHINGTON DC"
+        ],
+        "isIncluded": true,
+        "displayName": "US Cities",
+        "levelOneName": "Geography",
+        "levelTwoName": "US Cities",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_worldCapitals",
+        "words": [
+            "ABUJA", "ACCRA", "ADDIS ABABA", "ALGIERS", "AMMAN", "AMSTERDAM", "ANDORRA LA VELLA", "ANKARA", "ANTANANARIVO", "APIA","ASHGABAT", "ASMARA", "ASTANA", "ASUNCION", "ATHENS", "BAGHDAD", "BAKU", "BAMAKO", "BANDAR SERI BEGAWAN", "BANGKOK","BANGUI", "BANJUL", "BASSETERRE", "BEIJING", "BEIRUT", "BELGRADE", "BELMOPAN", "BERLIN", "BERNE", "BISHKEK","BISSAU", "BOGOTA", "BRASILIA", "BRATISLAVA", "BRAZZAVILLE", "BRIDGETOWN", "BRUSSELS", "BUCHAREST", "BUJUMBURA", "BUENOS AIRES","CAIRO", "CANBERRA", "CARACAS", "CASA", "CHISINAU", "COLOMBO", "CONAKRY", "COPENHAGEN", "DAKAR", "DAMASCUS","DAMMAM", "DILI", "DJIBOUTI", "DODOMA", "DOHA", "DUBLIN", "DUSHANBE", "EL AAIUN", "FREETOWN", "FUNAFUTI","GABORONE", "GEORGETOWN", "GITEGA", "GUATEMALA CITY", "HANOI", "HARARE", "HAVANA", "HELSINKI", "HONG KONG", "HOUSTON","ISLAMABAD", "JAKARTA", "JERUSALEM", "KABUL", "KAMPALA", "KATHMANDU", "KHARTOUM", "KIEV", "KIGALI", "KINGSTON","KINSHASA", "KUALA LUMPUR", "KUWAIT CITY", "LA PAZ", "LIBREVILLE", "LILONGWE", "LIMA", "LISBON", "LJUBLJANA", "LOME","LONDON", "LUANDA", "LUSAKA", "LUXEMBOURG", "MADRID", "MALE", "MANAGUA", "MANAMA", "MANILA", "MAPUTO","MASERU", "MASHHAD", "MBABANE", "MEXICO CITY", "MINNEAPOLIS", "MINSK", "MOGADISHU", "MONACO", "MONROVIA", "MONTEVIDEO","MORONI", "MOSCOW", "MOSUL", "MUSCAT", "N'DJAMENA", "NAIROBI", "NASSAU", "NAYPYIDAW", "NEUCHATEL", "NIAMEY","NICOIS", "NOUAKCHOTT", "NUKU'ALOFA", "OSLO", "OTTAWA", "OUAGADOUGOU", "PANAMA CITY", "PARAMARIBO", "PARIS", "PHNOM PENH","PODGORICA", "PORT AU PRINCE", "PORT LOUIS", "PORT MORESBY", "PORT OF SPAIN", "PORT VILA", "PORTO NOVO", "PRAGUE", "PRETORIA", "PYONGYANG","QUITO", "RABAT", "REYKJAVIK", "RIYADH", "ROME", "ROSEAU", "SAINT GEORGE'S", "SAINT JOHN'S", "SAN JOSE", "SAN MARINO","SAN SALVADOR", "SANA'A", "SANTIAGO", "SANTO DOMINGO", "SARAJEVO", "SEOUL", "SINGAPORE", "SKOPJE", "SOFIA", "SRI JAYAWARDENEPURA KOTTE","STOCKHOLM", "SUCRE", "SUVA", "TAIPEI", "TALLINN", "TASHKENT", "TBILISI", "TEGUCIGALPA", "TEHRAN", "THIMPHU","TIRANA", "TOKYO", "TRIPOLI", "TUNIS", "UAGADUGU", "ULAN BATOR", "VADUZ", "VALLETTA", "VIENTIANE", "VILNIUS","VICTORIA", "WARSAW", "WASHINGTON", "WELLINGTON", "WINDHOEK", "YAOUNDE", "YAREN", "YEREVAN", "ZAGREB"
+        ],
+        "isIncluded": true,
+        "displayName": "World Capitals",
+        "levelOneName": "Geography",
+        "levelTwoName": "World Capitals",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_usNatParks",
+        "words": [
+            "ACADIA", "ARCHES", "BADLANDS", "BIG BEND", "BISCAYNE", "BLACK CANYON", "BRYCE CANYON", "CANYONLANDS", "CAPITOL REEF", "CARLSBAD CAVERNS", "CHANNEL ISLANDS", "CONGAREE", "CRATER LAKE", "CUYAHOGA VALLEY", "DEATH VALLEY", "DENALI", "DRY TORTUGAS", "EVERGLADES", "GATES OF THE ARCTIC", "GLACIER", "GLACIER BAY", "GRAND CANYON", "GRAND TETON", "GREAT BASIN", "GREAT SAND DUNES", "GREAT SMOKY MOUNTAINS", "GUADALUPE MOUNTAINS", "HALEAKALA", "HAWAII VOLCANOES", "HOT SPRINGS", "INDIANA DUNES", "ISLE ROYALE", "JOSHUA TREE", "KATMAI", "KENAI FJORDS", "KINGS CANYON", "KOBUK VALLEY", "LAKE CLARK", "LASSEN VOLCANIC", "MAMMOTH CAVE", "MESA VERDE", "MOUNT RAINIER", "NORTH CASCADES", "OLYMPIC", "PETRIFIED FOREST", "PINNACLES", "REDWOOD", "ROCKY MOUNTAIN", "SAGUARO", "SEQUOIA", "SHENANDOAH", "THEODORE ROOSEVELT", "VOYAGEURS", "WHITE SANDS", "WIND CAVE", "WRANGELL ST ELIAS", "YELLOWSTONE", "YOSEMITE", "ZION"
+        ],
+        "isIncluded": true,
+        "displayName": "US National Parks",
+        "levelOneName": "Geography",
+        "levelTwoName": "US National Parks",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_islandNations",
+        "words": [
+            "BAHAMAS", "BAHRAIN", "BARBADOS", "CAPE VERDE", "COMOROS", "CUBA", "CYPRUS", "DOMINICA", "FIJI", "ICELAND", "INDONESIA", "JAMAICA", "JAPAN", "MADAGASCAR", "MALDIVES", "MALTA", "MAURITIUS", "NEW ZEALAND", "PHILIPPINES", "SAMOA", "SINGAPORE", "SRI LANKA", "TIMOR LESTE", "TRINIDAD AND TOBAGO", "UNITED KINGDOM"
+        ],
+        "isIncluded": true,
+        "displayName": "Island Nations",
+        "levelOneName": "Geography",
+        "levelTwoName": "Island Nations",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_UScapitals",
+        "words": [
+            "ALBANY", "ANNAPOLIS", "ATLANTA", "AUSTIN", "BATON ROUGE", "BISMARCK", "BOISE", "BOSTON", "CARSON CITY", "CHARLESTON", "CHEYENNE", "COLUMBIA", "COLUMBUS", "CONCORD", "DENVER", "DES MOINES", "DOVER", "FRANKFORT", "HARRISBURG", "HARTFORD", "HELENA", "HONOLULU", "INDIANAPOLIS", "JACKSON", "JEFFERSON CITY", "JUNEAU", "LANSING", "LINCOLN", "LITTLE ROCK", "MADISON", "MONTGOMERY", "MONTPELIER", "NASHVILLE", "OKLAHOMA CITY", "OLYMPIA", "PHOENIX", "PIERRE", "PROVIDENCE", "RALEIGH", "RICHMOND", "SACRAMENTO", "SALEM", "SALT LAKE CITY", "SANTA FE", "SPRINGFIELD", "ST PAUL", "TALLAHASSEE", "TOPEKA", "TRENTON"
+        ],
+        "isIncluded": true,
+        "displayName": "US Capitals",
+        "levelOneName": "Geography",
+        "levelTwoName": "US Capitals",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_deserts",
+        "words": [
+            "ATACAMA", "CHIHUAHUAN", "GOBI", "KALAHARI", "MOJAVE", "NAMIB", "SAHARA", "SONORAN", "SYRIAN", "THAR"
+        ],
+        "isIncluded": true,
+        "displayName": "Deserts",
+        "levelOneName": "Geography",
+        "levelTwoName": "Deserts",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_climateZones",
+        "words": [
+            "ARID", "CONTINENTAL", "HIGHLAND", "HUMID SUBTROPICAL", "MARINE WEST COAST", "MEDITERRANEAN", "POLAR", "SAVANNA", "STEPPE", "TROPICAL RAINFOREST", "TUNDRA"
+        ],
+        "isIncluded": true,
+        "displayName": "Climate Zones",
+        "levelOneName": "Geography",
+        "levelTwoName": "Climate Zones",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_countries",
+        "words": [
+            "AFGHANISTAN", "ALBANIA", "ALGERIA", "ANDORRA", "ANGOLA", "ANTIGUA AND BARBUDA", "ARGENTINA", "ARMENIA", "AUSTRALIA", "AUSTRIA","AZERBAIJAN", "BAHAMAS", "BAHRAIN", "BANGLADESH", "BARBADOS", "BELARUS", "BELGIUM", "BELIZE", "BENIN", "BHUTAN","BOLIVIA", "BOSNIA AND HERZEGOVINA", "BOTSWANA", "BRAZIL", "BRUNEI", "BULGARIA", "BURKINA FASO", "BURUNDI", "CABO VERDE", "CAMBODIA","CAMEROON", "CANADA", "CENTRAL AFRICAN REPUBLIC", "CHAD", "CHILE", "CHINA", "COLOMBIA", "COMOROS", "CONGO", "COSTA RICA","CROATIA", "CUBA", "CYPRUS", "CZECHIA", "DEMOCRATIC REPUBLIC OF THE CONGO", "DENMARK", "DJIBOUTI", "DOMINICA", "DOMINICAN REPUBLIC", "ECUADOR","EGYPT", "EL SALVADOR", "EQUATORIAL GUINEA", "ERITREA", "ESTONIA", "ESWATINI", "ETHIOPIA", "FIJI", "FINLAND", "FRANCE","GABON", "GAMBIA", "GEORGIA", "GERMANY", "GHANA", "GREECE", "GRENADA", "GUATEMALA", "GUINEA", "GUINEA-BISSAU","GUYANA", "HAITI", "HONDURAS", "HUNGARY", "ICELAND", "INDIA", "INDONESIA", "IRAN", "IRAQ", "IRELAND","ISRAEL", "ITALY", "JAMAICA", "JAPAN", "JORDAN", "KAZAKHSTAN", "KENYA", "KIRIBATI", "KOREA NORTH", "KOREA SOUTH","KUWAIT", "KYRGYZSTAN", "LAOS", "LATVIA", "LEBANON", "LESOTHO", "LIBERIA", "LIBYA", "LIECHTENSTEIN", "LITHUANIA","LUXEMBOURG", "MADAGASCAR", "MALAWI", "MALAYSIA", "MALDIVES", "MALI", "MALTA", "MARSHALL ISLANDS", "MAURITANIA", "MAURITIUS","MEXICO", "MICRONESIA", "MOLDOVA", "MONACO", "MONGOLIA", "MONTENEGRO", "MOROCCO", "MOZAMBIQUE", "MYANMAR", "NAMIBIA","NAURU", "NEPAL", "NETHERLANDS", "NEW ZEALAND", "NICARAGUA", "NIGER", "NIGERIA", "NORTH MACEDONIA", "NORWAY", "OMAN","PAKISTAN", "PALAU", "PALESTINE", "PANAMA", "PAPUA NEW GUINEA", "PARAGUAY", "PERU", "PHILIPPINES", "POLAND", "PORTUGAL","QATAR", "ROMANIA", "RUSSIA", "RWANDA", "SAINT KITTS AND NEVIS", "SAINT LUCIA", "SAINT VINCENT AND THE GRENADINES", "SAMOA", "SAN MARINO", "SAO TOME AND PRINCIPE","SAUDI ARABIA", "SENEGAL", "SERBIA", "SEYCHELLES", "SIERRA LEONE", "SINGAPORE", "SLOVAKIA", "SLOVENIA", "SOLOMON ISLANDS", "SOMALIA","SOUTH AFRICA", "SOUTH SUDAN", "SPAIN", "SRI LANKA", "SUDAN", "SURINAME", "SWEDEN", "SWITZERLAND", "SYRIA", "TAIWAN","TAJIKISTAN", "TANZANIA", "THAILAND", "TIMOR-LESTE", "TOGO", "TONGA", "TRINIDAD AND TOBAGO", "TUNISIA", "TURKEY", "TURKMENISTAN","TUVALU", "UGANDA", "UKRAINE", "UNITED ARAB EMIRATES", "UNITED KINGDOM", "UNITED STATES", "URUGUAY", "UZBEKISTAN", "VANUATU", "VATICAN CITY","VENEZUELA", "VIETNAM", "YEMEN", "ZAMBIA", "ZIMBABWE"
+        ],
+        "isIncluded": true,
+        "displayName": "Countries",
+        "levelOneName": "Geography",
+        "levelTwoName": "Countries",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_rivers",
+        "words": [
+            "AMAZON", "COLORADO", "CONGO", "DANUBE", "EUPHRATES", "GANGES", "HUDSON", "INDUS", "LENA", "LOIRE", "MACQUARIE", "MEKONG","MISSISSIPPI", "MURRAY", "NILE", "OB", "RHINE", "RIO GRANDE", "SEINE", "SNAKE", "TIGRIS", "THAMES", "VOLGA", "YANGTZE", "YENISEI", "ZAMBEZI", "NIGER", "YELLOW"
+        ],
+        "isIncluded": true,
+        "displayName": "Rivers",
+        "levelOneName": "Geography",
+        "levelTwoName": "Rivers",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "geography_lakes",
+        "words": [
+            "BAIKAL", "CHAD", "ERIE", "GREAT BEAR", "GREAT SALT", "HURON", "MALAWI", "MICHIGAN", "ONTARIO", "SUPERIOR", "TANGANYIKA", "VICTORIA", "WINNIPEG"
+        ],
+        "isIncluded": true,
+        "displayName": "Lakes",
+        "levelOneName": "Geography",
+        "levelTwoName": "Lakes",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_nfl",
+        "words": [
+            "49ERS", "AARON DONALD", "BILLS", "BRONCOS", "COWBOYS", "EAGLES", "JETS", "LAMBEAU FIELD", "LAMAR JACKSON", "MAHOMES", "PATRIOTS", "RAIDERS", "RAMS", "RAVENS", "SAINTS", "SEAHAWKS", "STEELERS", "SUPER BOWL", "TITANS", "TOUCHDOWN", "TOM BRADY", "VIKINGS", "WIDE RECEIVER", "CHIEFS", "JUSTIN JEFFERSON"
+        ],
+        "isIncluded": true,
+        "displayName": "NFL",
+        "levelOneName": "Sports",
+        "levelTwoName": "NFL",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_nba",
+        "words": [
+            "BASKETBALL", "CELTICS", "CURRY", "DUNK", "GIANNIS", "HEAT", "JOKIC", "KEVIN DURANT", "KNICKS", "KOBE BRYANT", "LAKERS", "LEBRON JAMES", "MAVS", "NETS", "NBA FINALS", "NUGGETS", "ROCKETS", "SPURS", "STEPHEN CURRY", "SUNS", "THREE POINTER", "TRAIL BLAZERS", "WARRIORS", "WEMBANYAMA", "ZION WILLIAMSON"
+        ],
+        "isIncluded": false,
+        "displayName": "NBA",
+        "levelOneName": "Sports",
+        "levelTwoName": "NBA",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_mlb",
+        "words": [
+            "ANGELS", "ASTROS", "BASEBALL", "BATTER", "CARDINALS", "CUBS", "DIAMONDBACKS", "DODGERS", "FIELD OF DREAMS", "GIANTS", "HOME RUN", "METS", "PADRES", "PHILLIES", "PIRATES", "PITCHER", "RAYS", "REDS", "RED SOX", "ROBINSON", "ROYALS", "TIGERS", "YANKEES", "WRIGLEY FIELD", "WORLD SERIES"
+        ],
+        "isIncluded": false,
+        "displayName": "MLB",
+        "levelOneName": "Sports",
+        "levelTwoName": "MLB",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_nhl",
+        "words": [
+            "AVALANCHE", "BLACKHAWKS", "BRUINS", "CANADIENS", "CAPITALS", "CHECKING", "FLAMES", "GRETZKY", "ICE HOCKEY", "ISLANDERS", "KRAKEN", "MAPLE LEAFS", "MCDAVID", "PENGUINS", "PUCK", "RANGERS", "RED WINGS", "SABRES", "SHARKS", "SLAPSHOT", "STANLEY CUP", "STARS", "VEGAS GOLDEN KNIGHTS", "ZAMBONI", "ZEBRA"
+        ],
+        "isIncluded": false,
+        "displayName": "NHL",
+        "levelOneName": "Sports",
+        "levelTwoName": "NHL",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_olympicEvents",
+        "words": [
+            "SPRINT", "ARCHERY", "BADMINTON", "BASEBALL", "BASKETBALL", "BOXING", "CYCLING", "DIVING", "FENCING", "FOOTBALL", "GYMNASTICS", "HANDBALL", "HIGH JUMP", "JUDO", "LONG JUMP", "MARATHON", "POLE VAULT", "RUGBY", "SHOOTING", "SKATEBOARDING", "SOCCER", "SWIMMING", "TAEKWONDO", "TENNIS", "TRIATHLON", "VOLLEYBALL", "WRESTLING"
+        ],
+        "isIncluded": false,
+        "displayName": "Olympic Events",
+        "levelOneName": "Sports",
+        "levelTwoName": "Olympic Events",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_Fathletes",
+        "words": [
+            "ALI", "BOLT", "BRADY", "FEDERER", "GRETZKY", "JORDAN", "LEBRON", "MESSI", "NADAL", "NAOMI OSAKA", "NEYMAR", "PELE", "PHELPS", "RONALDO", "SAKARI", "SCHUMACHER", "SERENA", "SHAQ", "SIMONE BILES", "STEPH CURRY", "TIGER WOODS", "TOM BRADY", "USAIN BOLT", "VENUS WILLIAMS", "WILLIAMS SISTERS"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Athletes",
+        "levelOneName": "Sports",
+        "levelTwoName": "Famous Athletes",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_worldCupNations",
+        "words": [
+            "ARGENTINA", "BELGIUM", "BRAZIL", "CAMEROON", "CANADA", "CROATIA", "DENMARK", "ECUADOR", "ENGLAND", "FRANCE", "GERMANY", "GHANA", "ITALY", "JAPAN", "KOREA", "MEXICO", "MOROCCO", "NETHERLANDS", "NIGERIA", "PORTUGAL", "QATAR", "SAUDI ARABIA", "SPAIN", "SWITZERLAND", "URUGUAY", "UNITED STATES"
+        ],
+        "isIncluded": false,
+        "displayName": "World Cup Nations",
+        "levelOneName": "Sports",
+        "levelTwoName": "World Cup Nations",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_tennis",
+        "words": [
+            "ACE", "ALCARAZ", "ANDRE AGASSI", "AUSTRALIAN OPEN", "BACKHAND", "CLAY COURT", "DJOKOVIC", "FEDERER", "FOREHAND", "FRENCH OPEN", "GRAND SLAM", "MURRAY", "NADAL", "NAOMI OSAKA", "NET", "RAFAEL NADAL", "RACKET", "RETURN", "SERENA", "SERVE", "SMASH", "TENNIS BALL", "TIEBREAK", "US OPEN", "WIMBLEDON"
+        ],
+        "isIncluded": false,
+        "displayName": "Tennis",
+        "levelOneName": "Sports",
+        "levelTwoName": "Tennis",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_wwe",
+        "words": [
+            "ANDRE THE GIANT", "BATISTA", "BODYSLAM", "CENA", "CM PUNK", "EDGE", "ENTRANCE", "FINISHER", "GOLDBERG", "HULK HOGAN", "JOHN CENA", "KANE", "LADDER MATCH", "MCMAHON", "REIGNS", "REY MYSTERIO", "RKO", "RING", "ROCK", "SHIELD", "SMACKDOWN", "STONE COLD", "TRIPLE H", "UNDERTAKER", "WRESTLEMANIA"
+        ],
+        "isIncluded": false,
+        "displayName": "WWE",
+        "levelOneName": "Sports",
+        "levelTwoName": "WWE",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_stadiums",
+        "words": [
+            "ALLIANZ ARENA", "ANFIELD", "ATT STADIUM", "CAMP NOU", "CENTURYLINK FIELD", "CITI FIELD", "EMIRATES STADIUM", "FENWAY PARK", "LAMBEAU FIELD", "MADISON SQUARE GARDEN", "MARACANA", "METLIFE STADIUM", "MICHIGAN STADIUM", "OLD TRAFFORD", "ROSE BOWL", "SOFI STADIUM", "STAMFORD BRIDGE", "TOKYO DOME", "WEMBLEY", "YANKEE STADIUM"
+        ],
+        "isIncluded": false,
+        "displayName": "Stadiums",
+        "levelOneName": "Sports",
+        "levelTwoName": "Stadiums",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "sports_olympicCities",
+        "words": [
+            "ATHENS", "ATLANTA", "BARCELONA", "BEIJING", "BERLIN", "HELSINKI", "LONDON", "LOS ANGELES", "MELBOURNE", "MONTREAL", "MOSCOW", "MUNICH", "PARIS", "RIO DE JANEIRO", "ROME", "SEOUL", "STOCKHOLM", "SYDNEY", "TOKYO", "TORONTO"
+        ],
+        "isIncluded": false,
+        "displayName": "Olympic Cities",
+        "levelOneName": "Sports",
+        "levelTwoName": "Olympic Cities",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "music_popstars",
+        "words": [
+            "ARIANA GRANDE", "BEYONCE", "BILLIE EILISH", "BRITNEY SPEARS", "DRAKE", "DUA LIPA", "ED SHEERAN", "ELTON JOHN", "HARRY STYLES", "JUSTIN BIEBER", "KATY PERRY", "LADY GAGA", "LIL NAS X", "LIZZO", "MADONNA", "MILEY CYRUS", "OLIVIA RODRIGO", "RIHANNA", "SHAKIRA", "TAYLOR SWIFT", "THE WEEKND"
+        ],
+        "isIncluded": false,
+        "displayName": "Pop Stars",
+        "levelOneName": "Music",
+        "levelTwoName": "Pop Stars",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "music_90sBands",
+        "words": [
+            "AEROSMITH", "ALANIS MORISSETTE", "BACKSTREET BOYS", "BEASTIE BOYS", "BLUR", "CREED", "FIONA APPLE", "FOO FIGHTERS", "GARTH BROOKS", "GREEN DAY", "INCUBUS", "LIVE", "NIRVANA", "NO DOUBT", "OASIS", "PEARL JAM", "RADIOHEAD", "REEL BIG FISH", "REM", "SAVAGE GARDEN", "SMASHING PUMPKINS", "SOUNDGARDEN", "STONE TEMPLE PILOTS", "THE CRANBERRIES", "THIRD EYE BLIND", "WEEZER"
+        ],
+        "isIncluded": true,
+        "displayName": "90s Bands",
+        "levelOneName": "Music",
+        "levelTwoName": "90s Bands",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "music_instruments",
+        "words": [
+            "ACCORDION", "BAGPIPE", "BANJO", "BASS", "CELLO", "CLARINET", "CONGA", "DRUMS", "ELECTRIC GUITAR", "FLUTE", "FRENCH HORN", "GLOCKENSPIEL", "GUITAR", "HARP", "KEYBOARD", "MARIMBA", "OBOE", "ORGAN", "PIANO", "SAXOPHONE", "SNARE", "TAMBOURINE", "TRIANGLE", "TRUMPET", "TUBA", "UKULELE", "VIOLIN", "XYLOPHONE"
+        ],
+        "isIncluded": false,
+        "displayName": "Musical Instruments",
+        "levelOneName": "Music",
+        "levelTwoName": "Musical Instruments",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "music_songTitles",
+        "words": [
+            "BAD GUY", "BILLIE JEAN", "BLINDING LIGHTS", "BOHEMIAN RHAPSODY", "CALL ME MAYBE", "DANCING QUEEN", "DON'T STOP BELIEVIN", "EVERY BREATH YOU TAKE", "GANGNAM STYLE", "HALO", "HEY JUDE", "HOTLINE BLING", "IMAGINE", "LET IT BE", "LIKE A PRAYER", "LOSE YOURSELF", "ROAR", "ROLLING IN THE DEEP", "SHAKE IT OFF", "SMELLS LIKE TEEN SPIRIT", "STAYIN ALIVE", "SWEET CAROLINE", "THRILLER", "UPTOWN FUNK", "WATERMELON SUGAR"
+        ],
+        "isIncluded": false,
+        "displayName": "Song Titles",
+        "levelOneName": "Music",
+        "levelTwoName": "Song Titles",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "music_country",
+        "words": [
+            "ALAN JACKSON", "BLUEGRASS", "BRAD PAISLEY", "CARRIE UNDERWOOD", "CHRIS STAPLETON", "DOLLY PARTON", "GARTH BROOKS", "GEORGE STRAIT", "GRAND OLE OPRY", "HONKY TONK", "JASON ALDEAN", "JOHNNY CASH", "KENNY CHESNEY", "LUKE BRYAN", "LUKE COMBS", "MIRANDA LAMBERT", "NASHVILLE", "REBA MCENTIRE", "SHANIA TWAIN", "STEEL GUITAR", "TAYLOR SWIFT", "TIM MCGRAW", "WAYLON JENNINGS", "WILLIE NELSON", "ZAC BROWN BAND"
+        ],
+        "isIncluded": false,
+        "displayName": "Country",
+        "levelOneName": "Music",
+        "levelTwoName": "Country",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "music_rap",
+        "words": [
+            "50 CENT", "BEASTIE BOYS", "CARDI B", "DRAKE", "EMINEM", "FLO RIDA", "GRANDMASTER FLASH", "ICE CUBE", "JAY Z", "KANYE WEST", "KENDRICK LAMAR", "LIL NAS X", "LIL WAYNE", "MISSY ELLIOTT", "NAS", "NICKI MINAJ", "OUTKAST", "POST MALONE", "PUBLIC ENEMY", "RUN DMC", "SNOOP DOGG", "TRAVIS SCOTT", "TUPAC", "TYLER THE CREATOR", "WIZ KHALIFA"
+        ],
+        "isIncluded": false,
+        "displayName": "Rap",
+        "levelOneName": "Music",
+        "levelTwoName": "Rap",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "music_rock",
+        "words": [
+            "ACDC", "AEROSMITH", "BON JOVI", "CREEDENCE", "DEF LEPPARD", "FLEETWOOD MAC", "FOO FIGHTERS", "GUNS N ROSES", "JIMI HENDRIX", "JOAN JETT", "KISS", "LED ZEPPELIN", "LINKIN PARK", "METALLICA", "MOTLEY CRUE", "NIRVANA", "PEARL JAM", "PINK FLOYD", "QUEEN", "RAGE AGAINST THE MACHINE", "RADIOHEAD", "RED HOT CHILI PEPPERS", "ROLLING STONES", "THE WHO", "U2"
+        ],
+        "isIncluded": false,
+        "displayName": "Rock",
+        "levelOneName": "Music",
+        "levelTwoName": "Rock",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "music_classical",
+        "words": [
+            "AMADIS", "BACH", "BAROQUE", "BEETHOVEN", "BRAHMS", "CHOPIN", "CLARINET", "COMPOSER", "CONCERTO", "DEBUSSY", "HAYDN", "MAHLER", "MENDELSSOHN", "MOZART", "OPERA", "ORCHESTRA", "OVERTURE", "PIANO", "STRAUSS", "STRING QUARTET", "SYMPHONY", "TCHAIKOVSKY", "VIOLIN", "VIVALDI", "WAGNER"
+        ],
+        "isIncluded": false,
+        "displayName": "Classical",
+        "levelOneName": "Music",
+        "levelTwoName": "Classical",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_fruits",
+        "words": [
+            "APPLE", "APRICOT", "AVOCADO", "BANANA", "BLACKBERRY", "BLUEBERRY", "CANTALOUPE", "CHERRY", "COCONUT", "CRANBERRY", "DATE", "DRAGONFRUIT", "FIG", "GRAPE", "GRAPEFRUIT", "GUAVA", "KIWI", "LEMON", "LIME", "LYCHEE", "MANGO", "NECTARINE", "ORANGE", "PAPAYA", "PEACH", "PEAR", "PINEAPPLE", "PLUM", "POMEGRANATE", "STRAWBERRY", "WATERMELON"
+        ],
+        "isIncluded": true,
+        "displayName": "Fruits",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Fruits",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_desserts",
+        "words": [
+            "BROWNIE", "CANNOLI", "CHEESECAKE", "CHURROS", "COBBLER", "COOKIES", "CREME BRULEE", "CUPCAKES", "DONUT", "ECLAIR", "FLAN", "FROYO", "FUDGE", "GELATO", "ICE CREAM", "MACARON", "MOCHI", "MUFFIN", "PANCAKES", "PIE", "PUDDING", "SOFT SERVE", "SORBET", "SUNDAE", "TART", "TIRAMISU", "TRIFLE"
+        ],
+        "isIncluded": false,
+        "displayName": "Desserts",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Desserts",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_international",
+        "words": [
+            "BIBIMBAP", "BOEUF BOURGUIGNON", "BULGOGI", "CHILI CON CARNE", "COQ AU VIN", "CURRY", "DIM SUM", "EMPANADA", "FALAFEL", "FISH AND CHIPS", "GNOCCHI", "GYRO", "JAMBALAYA", "KATSU", "MASSAMAN", "MISO SOUP", "PAD THAI", "PAELLA", "PEKING DUCK", "PHO", "PIEROGI", "RATATOUILLE", "SATAY", "SCHNITZEL", "SAMOSA", "SPAGHETTI", "SUSHI", "TACOS"
+        ],
+        "isIncluded": false,
+        "displayName": "International Dishes",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "International Dishes",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_breakfast",
+        "words": [
+            "BACON", "BAGEL", "CEREAL", "CROISSANT", "DONUT", "EGGS", "ENGLISH MUFFIN", "FRENCH TOAST", "FRUIT SALAD", "GRANOLA", "GRITS", "HASH BROWNS", "JUICE", "MUFFIN", "OATMEAL", "OMELET", "PANCAKES", "PORRIDGE", "SAUSAGE", "SCRAMBLED EGGS", "SMOOTHIE", "TOAST", "WAFFLES", "YOGURT"
+        ],
+        "isIncluded": false,
+        "displayName": "Breakfast Foods",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Breakfast Foods",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_cocktails",
+        "words": [
+            "APEROL SPRITZ", "BLOODY MARY", "COSMOPOLITAN", "DAIQUIRI", "DARK AND STORMY", "GIN FIZZ", "GIN TONIC", "IRISH COFFEE", "LONG ISLAND ICED TEA", "MAI TAI", "MANHATTAN", "MARGARITA", "MARTINI", "MOJITO", "MOSCOW MULE", "NEGRONI", "OLD FASHIONED", "PALOMA", "PIMM'S CUP", "SAZERAC", "SIDECAR", "SINGAPORE SLING", "TOM COLLINS", "WHISKEY SOUR", "WHITE RUSSIAN"
+        ],
+        "isIncluded": false,
+        "displayName": "Cocktails",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Cocktails",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_cheeses",
+        "words": [
+            "ASIAGO", "BLUE CHEESE", "BRIE", "CAMEMBERT", "CHEDDAR", "COTTAGE CHEESE", "CREAM CHEESE", "EDAM", "FETA", "FONTINA", "GORGONZOLA", "GOUDA", "GRUYERE", "HAVARTI", "JACK", "JARLSBERG", "LIMBURGER", "MANCHENGO", "MOZZARELLA", "MUNSTER", "PARMESAN", "PROVOLONE", "RICOTTA", "ROQUEFORT", "SWISS", "TALEGGIO"
+        ],
+        "isIncluded": false,
+        "displayName": "Cheeses",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Cheeses",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_streetFoods",
+        "words": [
+            "AREPAS", "BAO BUNS", "BHEL PURI", "BURGER", "CHURROS", "CORN DOG", "CREPES", "DUMPLINGS", "EMPANADA", "FALAFEL", "FISH TACOS", "FRANKFURTER", "FRIES", "GYRO", "HOT DOG", "KATI ROLL", "KIMBAP", "MOCHI", "PIROSHKI", "POUTINE", "PRETZEL", "SATAY", "SHWARMA", "SAMOSA", "SPRING ROLL", "TACOS", "TAKOYAKI"
+        ],
+        "isIncluded": false,
+        "displayName": "Street Foods",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Street Foods",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_soups",
+        "words": [
+            "BORSCHT", "BROCCOLI CHEDDAR", "CHOWDER", "CHICKEN NOODLE", "CONSOMME", "FRENCH ONION", "GAZPACHO", "GUMBO", "HOT AND SOUR", "LENTIL", "MISO", "MULLIGATAWNY", "PHO", "POSOLE", "POTATO LEEK", "RAMEN", "SPLIT PEA", "TOM KHA", "TOMATO", "TORTILLA SOUP", "VEGETABLE", "WONTON"
+        ],
+        "isIncluded": false,
+        "displayName": "Soups",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Soups",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_cereals",
+        "words": [
+            "APPLE JACKS", "CAPTAIN CRUNCH", "CHEERIOS", "CHEX", "COCOA PUFFS", "CORN FLAKES", "FIBER ONE", "FROOT LOOPS", "FROSTED FLAKES", "GRAPE NUTS", "HONEY BUNCHES", "HONEYCOMB", "KIX", "LIFE", "LUCKY CHARMS", "OATMEAL", "POST HONEYCOMB", "RAISIN BRAN", "RICE KRISPIES", "SHREDDED WHEAT", "TRIX", "WHEATIES"
+        ],
+        "isIncluded": false,
+        "displayName": "Cereals",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Cereals",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "food_chefs",
+        "words": [
+            "ALTON BROWN", "ANTHONY BOURDAIN", "BOBBY FLAY", "CHRISTINA TOSI", "EMERIL LAGASSE", "GIADA DE LAURENTIIS", "GORDON RAMSAY", "GUY FIERI", "JAMIE OLIVER", "JULIA CHILD", "MARCUS SAMUELSSON", "MARTHA STEWART", "MASAHARU MORIMOTO", "NIGELLA LAWSON", "RACHAEL RAY", "ROBERT IRVINE", "SANDRA LEE", "THOMAS KELLER", "WOLFGANG PUCK", "YOTAM OTTOLENGHI", "ANNE BURRELL"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Chefs",
+        "levelOneName": "Food & Drink",
+        "levelTwoName": "Famous Chefs",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "brands_cars",
+        "words": [
+            "AUDI", "BMW", "BUICK", "CADILLAC", "CHEVROLET", "CHRYSLER", "CITROEN", "DODGE", "FERRARI", "FIAT", "FORD", "GENESIS", "GMC", "HONDA", "HYUNDAI", "INFINITI", "JAGUAR", "JEEP", "KIA", "LAND ROVER", "LEXUS", "MAZDA", "MERCEDES", "MINI", "MITSUBISHI", "NISSAN", "PEUGEOT", "PORSCHE", "RAM", "RENAULT", "SUBARU", "TESLA", "TOYOTA", "VOLKSWAGEN", "VOLVO"
+        ],
+        "isIncluded": true,
+        "displayName": "Car Brands",
+        "levelOneName": "Brands & Products",
+        "levelTwoName": "Car Brands",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "brands_fastFood",
+        "words": [
+            "ARBYS", "BURGER KING", "CARLS JR", "CHECKERS", "CHICK FIL A", "CHIPOTLE", "DAIRY QUEEN", "DEL TACO", "DOMINOS", "FIVE GUYS", "HARDYS", "IN N OUT", "JACK IN THE BOX", "JERSEY MIKE'S", "JIMMY JOHNS", "KFC", "KRISPY KREME", "LITTLE CAESARS", "MCDONALDS", "PAPA JOHNS", "PANDA EXPRESS", "PIZZA HUT", "SONIC", "STARBUCKS", "SUBWAY", "TACO BELL", "WENDYS", "WHATABURGER", "WHITE CASTLE", "ZAXBYS"
+        ],
+        "isIncluded": false,
+        "displayName": "Fast Food Chains",
+        "levelOneName": "Brands & Products",
+        "levelTwoName": "Fast Food Chains",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "brands_techCompanies",
+        "words": [
+            "ADOBE", "AMD", "AMAZON", "APPLE", "ASUS", "AT&T", "CISCO", "DELL", "GOOGLE", "HEWLETT PACKARD", "HUAWEI", "IBM", "INTEL", "LG", "META", "MICROSOFT", "NETFLIX", "NOKIA", "NVIDIA", "ORACLE", "SAMSUNG", "SONY", "SPOTIFY", "TESLA", "TIKTOK", "TOSHIBA", "VERIZON", "XIAOMI", "ZOOM"
+        ],
+        "isIncluded": false,
+        "displayName": "Tech Companies",
+        "levelOneName": "Brands & Products",
+        "levelTwoName": "Tech Companies",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "brands_toy",
+        "words": [
+            "BARBIE", "BRIO", "CRAYOLA", "DISNEY", "FISHER PRICE", "FUNKO", "HASBRO", "HOT WHEELS", "KENNER", "KNEX", "LEGO", "LITTLE TIKES", "MATTEL", "MEGA BLOKS", "MEGA CONSTRUX", "NERF", "PLAYDOH", "PLAYMOBIL", "POKEMON", "RUBIKS", "STEP2", "THOMAS AND FRIENDS", "TONKA", "TY", "VTECH"
+        ],
+        "isIncluded": false,
+        "displayName": "Toy Brands",
+        "levelOneName": "Brands & Products",
+        "levelTwoName": "Toy Brands",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "brands_clothing",
+        "words": [
+            "AERIE", "AEROPOSTALE", "AMERICAN EAGLE", "BANANA REPUBLIC", "BURLINGTON", "CHICOS", "EXPRESS", "GAP", "HOT TOPIC", "J CREW", "KOHLS", "LULULEMON", "MACYS", "MARSHALLS", "NORDSTROM", "OLD NAVY", "RALPH LAUREN", "ROSS", "TARGET", "TJ MAXX", "UNIQLO", "URBAN OUTFITTERS", "VICTORIA'S SECRET", "ZARA"
+        ],
+        "isIncluded": false,
+        "displayName": "Clothing Stores",
+        "levelOneName": "Brands & Products",
+        "levelTwoName": "Clothing Stores",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "brands_luxury",
+        "words": [
+            "ARMANI", "BALENCIAGA", "BURBERRY", "BVLGARI", "CARTIER", "CHANEL", "CHLOE", "COACH", "DIOR", "DOLCE GABBANA", "FENDI", "GIORGIO ARMANI", "GIVENCHY", "GUCCI", "HERMES", "LOEWE", "LOUIS VUITTON", "MIU MIU", "OMEGA", "PRADA", "RALPH LAUREN", "ROLEX", "SAINT LAURENT", "TIFFANY", "VERSACE"
+        ],
+        "isIncluded": false,
+        "displayName": "Luxury Brands",
+        "levelOneName": "Brands & Products",
+        "levelTwoName": "Luxury Brands",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "brands_snack",
+        "words": [
+            "BUGLES", "CAPE COD", "CHEETOS", "CHEEZ IT", "CLIF BAR", "DORITOS", "FAMOUS AMOS", "FERRERO", "FIDDLE FADDLE", "GOLDFISH", "GRANOLA BARS", "HOSTESS", "KIT KAT", "LAYS", "LITTLE DEBBIE", "MILANO", "NABISCO", "NATURE VALLEY", "OREO", "PEPPERIDGE FARM", "PRINGLES", "RITZ", "SNACKWELL", "SNICKERS", "TWINKIES", "WHOPPERS"
+        ],
+        "isIncluded": false,
+        "displayName": "Snack Brands",
+        "levelOneName": "Brands & Products",
+        "levelTwoName": "Snack Brands",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_dogs",
+        "words": [
+            "AKITA", "BASENJI", "BASSET HOUND", "BEAGLE", "BERNESE MOUNTAIN DOG", "BICHON FRISE", "BLOODHOUND", "BORDER COLLIE", "BOXER", "BULLDOG", "CHIHUAHUA", "COCKER SPANIEL", "DACHSHUND", "DALMATIAN", "DOBERMAN", "FRENCH BULLDOG", "GERMAN SHEPHERD", "GOLDEN RETRIEVER", "GREAT DANE", "HUSKY", "LABRADOR RETRIEVER", "MALTESE", "POMERANIAN", "PUG", "ROTTWEILER", "SHIH TZU", "WEIMARANER", "YORKSHIRE TERRIER", "BOSTON TERRIER"
+        ],
+        "isIncluded": true,
+        "displayName": "Dog Breeds",
+        "levelOneName": "Animals",
+        "levelTwoName": "Dog Breeds",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_sea",
+        "words": [
+            "ANGELFISH", "ANCHOVY", "BARRACUDA", "BLUE WHALE", "CLOWNFISH", "CRAB", "DOLPHIN", "EEL", "FLUKE", "GIANT SQUID", "GOLDFISH", "HAMMERHEAD", "JELLYFISH", "LOBSTER", "MACKEREL", "MANATEE", "MARLIN", "NARWHAL", "OCTOPUS", "ORCA", "SALMON", "SEAHORSE", "SEA LION", "SHARK", "SQUID", "STINGRAY", "WALRUS"
+        ],
+        "isIncluded": true,
+        "displayName": "Sea Creatures",
+        "levelOneName": "Animals",
+        "levelTwoName": "Sea Creatures",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_farm",
+        "words": [
+            "ALPACA", "BULL", "CALF", "CAT", "CHICKEN", "COW", "DOG", "DONKEY", "DUCK", "GOAT", "GOOSE", "HORSE", "LAMB", "LLAMA", "MULE", "OSTRICH", "PEACOCK", "PIG", "PONY", "RABBIT", "ROOSTER", "SHEEP", "TURKEY"
+        ],
+        "isIncluded": true,
+        "displayName": "Farm Animals",
+        "levelOneName": "Animals",
+        "levelTwoName": "Farm Animals",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_birdsPrey",
+        "words": [
+            "BALD EAGLE", "BUZZARD", "CARACARA", "COOPERS HAWK", "EAGLE", "FALCON", "GOSHAWK", "GREAT HORNED OWL", "HARRIER", "HAWK", "KITE", "MERLIN", "OSPREY", "OWL", "PEREGRINE", "RED KITE", "RED TAILED HAWK", "SECRETARY BIRD", "SNOWY OWL", "SPARROWHAWK", "VULTURE"
+        ],
+        "isIncluded": true,
+        "displayName": "Birds of Prey",
+        "levelOneName": "Animals",
+        "levelTwoName": "Birds of Prey",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_insects",
+        "words": [
+            "ANT", "APHID", "BEE", "BEETLE", "BUTTERFLY", "CATERPILLAR", "CICADA", "CRICKET", "DRAGONFLY", "FIREFLY", "FLY", "GRASSHOPPER", "HORNET", "JUNE BUG", "KATYDID", "LADYBUG", "LOCUST", "MOSQUITO", "MOTH", "PRAYING MANTIS", "STICK BUG", "TERMITE", "WASP", "WEEVIL"
+        ],
+        "isIncluded": true,
+        "displayName": "Insects",
+        "levelOneName": "Animals",
+        "levelTwoName": "Insects",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_safari",
+        "words": [
+            "ANTELOPE", "BABOON", "BUFFALO", "CHEETAH", "CROCODILE", "ELEPHANT", "FLAMINGO", "GAZELLE", "GIRAFFE", "HIPPOPOTAMUS", "HYENA", "IMPALA", "JACKAL", "KUDU", "LEOPARD", "LION", "MEERKAT", "OSTRICH", "RHINOCEROS", "VULTURE", "WARTHOG", "WILDEBEEST", "ZEBRA"
+        ],
+        "isIncluded": true,
+        "displayName": "Safari",
+        "levelOneName": "Animals",
+        "levelTwoName": "Safari",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_mammals",
+        "words": [
+            "AARDVARK", "ANTELOPE", "BAT", "BEAR", "BISON", "CAMEL", "CHIMPANZEE", "COUGAR", "COW", "DEER", "DOLPHIN", "ELEPHANT", "FOX", "GIRAFFE", "GOAT", "GORILLA", "HIPPOPOTAMUS", "HORSE", "HUMAN", "KANGAROO", "KOALA", "LEOPARD", "LION", "MONKEY", "MOOSE", "PANDA", "PIG", "RACCOON", "RHINOCEROS", "SHEEP", "TIGER", "WHALE", "WOLF", "ZEBRA"
+        ],
+        "isIncluded": true,
+        "displayName": "Mammals",
+        "levelOneName": "Animals",
+        "levelTwoName": "Mammals",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_amphibians",
+        "words": [
+            "AXOLOTL", "BULLFROG", "CAECILIAN", "CHORUS FROG", "CRICKET FROG", "DART FROG", "FIRE SALAMANDER", "FROG", "GLASS FROG", "GREEN TREE FROG", "MUD PUPPY", "NEWT", "NORTHERN LEOPARD FROG", "POISON DART FROG", "SALAMANDER", "SPADEFOOT", "SPOTTED SALAMANDER", "SURINAME TOAD", "TOAD", "TREE FROG"
+        ],
+        "isIncluded": true,
+        "displayName": "Amphibians",
+        "levelOneName": "Animals",
+        "levelTwoName": "Amphibians",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_reptiles",
+        "words": [
+            "ALLIGATOR", "ANACONDA", "BEARDED DRAGON", "BOA", "CHAMELEON", "COBRA", "CROCODILE", "GECKO", "GILA MONSTER", "IGUANA", "CHAMELEON", "KOMODO DRAGON", "LIZARD", "MONITOR LIZARD", "PYTHON", "RATTLESNAKE", "SEA TURTLE", "SKINK", "SNAKE", "TORTOISE", "TURTLE", "VIPER"
+        ],
+        "isIncluded": true,
+        "displayName": "Reptiles",
+        "levelOneName": "Animals",
+        "levelTwoName": "Reptiles",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_dinosaurs",
+        "words": [
+            "ALLOSAURUS", "ANKYLOSAURUS", "APATOSAURUS", "BRACHIOSAURUS", "CARNOTAURUS", "COELOPHYSIS", "COMPSOGNATHUS", "DEINONYCHUS", "DILOPHOSAURUS", "DIMETRODON", "IGUANODON", "MEGALOSAURUS", "MICRORAPTOR", "MOSASAURUS", "ORNITHOMIMUS", "PACHYCEPHALOSAURUS", "PARASAUROLOPHUS", "PLESIOSAURUS", "PTERANODON", "SPINOSAURUS", "STEGOSAURUS", "TRICERATOPS", "TYRANNOSAURUS", "VELOCIRAPTOR"
+        ],
+        "isIncluded": true,
+        "displayName": "Dinosaurs",
+        "levelOneName": "Animals",
+        "levelTwoName": "Dinosaurs",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "animals_jungle",
+        "words": [
+            "ANTBIRD", "BINTURONG", "BOA", "CAPUCHIN", "CHIMPANZEE", "COATI", "GIBBON", "GORILLA", "GREEN TREE PYTHON", "HARPY EAGLE", "HOWLER MONKEY", "IGUANA", "JAGUAR", "LEAF MONKEY", "MACAW", "OKAPI", "ORANGUTAN", "PECCARY", "PYGMY ELEPHANT", "SLOTH", "SPECTACLED BEAR", "TAMARIN", "TAPIR", "TIGER", "TOUCAN"
+        ],
+        "isIncluded": true,
+        "displayName": "Jungle",
+        "levelOneName": "Animals",
+        "levelTwoName": "Jungle",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_nocturnal",
+        "words": [
+            "AARDVARK", "BAT", "BILBY", "CIVET", "COYOTE", "FENNEC FOX", "FLYING SQUIRREL", "GECKO", "HEDGEHOG", "JAGUARUNDI", "JERBOA", "KINKAJOU", "LEOPARD", "LEMUR", "LORIS", "MOUSE", "NAKED MOLE RAT", "OPOSSUM", "OWL", "PANGOLIN", "PORCUPINE", "RACCOON", "SKUNK", "SUGAR GLIDER"
+        ],
+        "isIncluded": true,
+        "displayName": "Nocturnal",
+        "levelOneName": "Animals",
+        "levelTwoName": "Nocturnal",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "animals_desert",
+        "words": [
+            "ADDAX", "ANTELOPE", "CAMEL", "CANAAN DOG", "COYOTE", "DESERT HARE", "DESERT IGUANA", "DESERT TORTOISE", "DINGO", "FENNEC FOX", "GAZELLE", "GECKO", "GILA MONSTER", "HORNED LIZARD", "HYENA", "JACKRABBIT", "KANGAROO RAT", "LIZARD", "MEERKAT", "ROADRUNNER", "RATTLESNAKE", "SAND CAT", "SCORPION", "TARANTULA", "VIPER"
+        ],
+        "isIncluded": true,
+        "displayName": "Desert Creatures",
+        "levelOneName": "Animals",
+        "levelTwoName": "Desert Creatures",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "home_kitchenTools",
+        "words": [
+            "BASTING BRUSH", "BLENDER", "CAN OPENER", "COLANDER", "CUTTING BOARD", "EGG SLICER", "FOOD PROCESSOR", "GARLIC PRESS", "GRATER", "JUICER", "KITCHEN SCALE", "KNIFE", "LADLE", "MEASURING CUPS", "MEASURING SPOONS", "MIXING BOWL", "PEELER", "PIZZA CUTTER", "ROLLING PIN", "SALAD SPINNER", "SPATULA", "STRAINER", "TONGS", "WHISK", "WOODEN SPOON", "ZESTER"
+        ],
+        "isIncluded": true,
+        "displayName": "Kitchen Tools",
+        "levelOneName": "Home & Lifestyle",
+        "levelTwoName": "Kitchen Tools",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "home_furniture",
+        "words": [
+            "ARMCHAIR", "BAR STOOL", "BED", "BENCH", "BOOKSHELF", "BUNK BED", "CABINET", "CHEST", "COFFEE TABLE", "COUCH", "CREDENZA", "DESK", "DRESSER", "ENTERTAINMENT CENTER", "HEADBOARD", "LOUNGE CHAIR", "LOVESEAT", "NIGHTSTAND", "OTTOMAN", "RECLINER", "ROCKING CHAIR", "SECTIONAL", "SOFA", "STOOL", "TABLE", "WARDROBE"
+        ],
+        "isIncluded": false,
+        "displayName": "Furniture",
+        "levelOneName": "Home & Lifestyle",
+        "levelTwoName": "Furniture",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "home_cleaning",
+        "words": [
+            "ALL PURPOSE CLEANER", "BLEACH", "BROOM", "BUCKET", "CLOTH", "DISH SOAP", "DISINFECTANT", "DUSTER", "DUSTPAN", "FABRIC SOFTENER", "GLOVES", "HAND SOAP", "LAUNDRY DETERGENT", "MOP", "PAPER TOWELS", "PLUNGER", "SCRUB BRUSH", "SCRUB PAD", "SPONGE", "SQUEEGEE", "STAIN REMOVER", "SWIFFER", "TOILET BRUSH", "TOILET CLEANER", "TRASH BAGS", "VACUUM"
+        ],
+        "isIncluded": false,
+        "displayName": "Cleaning Supplies",
+        "levelOneName": "Home & Lifestyle",
+        "levelTwoName": "Cleaning Supplies",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "home_houseplants",
+        "words": [
+            "ALOE VERA", "BAMBOO PALM", "BIRD OF PARADISE", "BOSTON FERN", "CACTUS", "CAST IRON PLANT", "CHINESE EVERGREEN", "CORN PLANT", "DEVILS IVY", "DRACAENA", "ENGLISH IVY", "FIDDLE LEAF FIG", "JADE PLANT", "LUCKY BAMBOO", "MONSTERA", "PEACE LILY", "PHILODENDRON", "POTHOS", "RUBBER PLANT", "SNAKE PLANT", "SPIDER PLANT", "STRING OF PEARLS", "SUCCULENT", "ZZ PLANT"
+        ],
+        "isIncluded": false,
+        "displayName": "Houseplants",
+        "levelOneName": "Home & Lifestyle",
+        "levelTwoName": "Houseplants",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "home_fabric",
+        "words": [
+            "BROCADE", "CAMBRIC", "CANVAS", "CHIFFON", "CORDUROY", "COTTON", "DENIM", "FLANNEL", "FLEECE", "GEORGETTE", "JERSEY", "LACE", "LEATHER", "LINEN", "MODAL", "MUSLIN", "NYLON", "POLYESTER", "RAYON", "SATIN", "SILK", "SUEDE", "TERRY CLOTH", "TULLE", "VELVET", "WOOL"
+        ],
+        "isIncluded": false,
+        "displayName": "Types of Fabric",
+        "levelOneName": "Home & Lifestyle",
+        "levelTwoName": "Types of Fabric",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_airports",
+        "words": [
+            "ATLANTA", "BEIJING", "CHARLES DE GAULLE", "CHICAGO O'HARE", "DALLAS FORT WORTH", "DENVER", "DUBAI", "FRANKFURT", "HEATHROW", "HONG KONG", "ISTANBUL", "JFK", "LAX", "MADRID BARAJAS", "MIAMI", "MUNICH", "NARITA", "ORLY", "SAN FRANCISCO", "SCHIPHOL", "SEATTLE", "SEOUL INCHEON", "SINGAPORE CHANGI", "SYDNEY", "TORONTO PEARSON", "ZURICH"
+        ],
+        "isIncluded": true,
+        "displayName": "Airports",
+        "levelOneName": "Travel",
+        "levelTwoName": "Airports",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_famousStreets",
+        "words": [
+            "ABBOT KINNEY", "BROADWAY", "CHAMPS ELYSEES", "FIFTH AVENUE", "HOLLYWOOD BOULEVARD", "KINGS ROAD", "LAS RAMBLAS", "LOMBARD STREET", "MICHIGAN AVENUE", "OXFORD STREET", "PENNSYLVANIA AVENUE", "PORTOBELLO ROAD", "REGENT STREET", "RINGSTRASSE", "RODEO DRIVE", "SHAFTESBURY AVENUE", "SUNSET BOULEVARD", "VIA CONDOTTI", "WALL STREET"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Streets",
+        "levelOneName": "Travel",
+        "levelTwoName": "Famous Streets",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_essentials",
+        "words": [
+            "ADAPTER", "BACKPACK", "CAMERA", "CHARGER", "CLOTHING", "HEADPHONES", "ID CARD", "ITINERARY", "JOURNAL", "LUGGAGE", "MAP", "MEDICINE", "PASSPORT", "POWER BANK", "SNACKS", "SUNSCREEN", "TICKETS", "TOILETRIES", "TRAVEL PILLOW", "UMBRELLA", "VISA", "WATER BOTTLE", "WIFI HOTSPOT"
+        ],
+        "isIncluded": false,
+        "displayName": "Travel Essentials",
+        "levelOneName": "Travel",
+        "levelTwoName": "Travel Essentials",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_vacationDestinations",
+        "words": [
+            "AMALFI COAST", "BAHAMAS", "BALI", "BARCELONA", "BORA BORA", "CANCUN", "CAPE TOWN", "DUBLIN", "FIJI", "GRAND CANYON", "HAWAII", "ICELAND", "KYOTO", "LONDON", "MALDIVES", "MARRAKECH", "MIAMI", "PARIS", "ROME", "SANTORINI", "SEOUL", "SYDNEY", "TOKYO", "VENICE"
+        ],
+        "isIncluded": false,
+        "displayName": "Vacation Destinations",
+        "levelOneName": "Travel",
+        "levelTwoName": "Vacation Destinations",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_languages",
+        "words": [
+            "ARABIC", "BENGALI", "CHINESE", "DUTCH", "ENGLISH", "FRENCH", "GERMAN", "GREEK", "HINDI", "ITALIAN", "JAPANESE", "KOREAN", "MALAY", "PORTUGUESE", "PUNJABI", "RUSSIAN", "SPANISH", "SWAHILI", "TAGALOG", "TAMIL", "TURKISH", "URDU", "VIETNAMESE", "ZULU"
+        ],
+        "isIncluded": false,
+        "displayName": "Languages of the World",
+        "levelOneName": "Travel",
+        "levelTwoName": "Languages of the World",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_camping",
+        "words": [
+            "BACKPACK", "BINOCULARS", "BUG SPRAY", "CAMPSITE", "CANTEEN", "COMPASS", "FIRE PIT", "FIRST AID KIT", "FLASHLIGHT", "HAMMOCK", "HEADLAMP", "KETTLE", "KNIFE", "LANTERN", "MATCHES", "ROPE", "SLEEPING BAG", "STOVE", "TENT", "THERMOS", "TRAIL MAP"
+        ],
+        "isIncluded": false,
+        "displayName": "Camping",
+        "levelOneName": "Travel",
+        "levelTwoName": "Camping",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_skiing",
+        "words": [
+            "AVALANCHE", "BINDINGS", "CHAIRLIFT", "COLD WEATHER", "GOGGLES", "GROOMED TRAIL", "HELMET", "LIFT PASS", "MOGULS", "POLES", "POWDER", "SKI BOOTS", "SKI GLOVES", "SKI JACKET", "SKI LODGE", "SKI PATROL", "SKI POLES", "SKI RESORT", "SKI SUIT", "SKIS", "SLOPE", "SNOWBOARD", "SNOWPLOW"
+        ],
+        "isIncluded": false,
+        "displayName": "Skiing",
+        "levelOneName": "Travel",
+        "levelTwoName": "Skiing",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_cruising",
+        "words": [
+            "ANCHOR", "BALCONY CABIN", "BUFFET", "CAPTAIN", "CASINO", "CREW", "DECK", "DINING ROOM", "DOCK", "ENGINE ROOM", "EXCURSION", "FIRST MATE", "GALLEY", "ITINERARY", "LIDO DECK", "LIFEBOAT", "PORT", "SHIP", "SNORKELING", "SPA", "STATEROOM", "SUNDECK", "THEATER"
+        ],
+        "isIncluded": false,
+        "displayName": "Cruising",
+        "levelOneName": "Travel",
+        "levelTwoName": "Cruising",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_unesco",
+        "words": [
+            "ACROPOLIS", "ANGKOR WAT", "AYERS ROCK", "CHICHEN ITZA", "EASTER ISLAND", "GALAPAGOS ISLANDS", "GREAT BARRIER REEF", "GREAT WALL", "HISTORIC KYOTO", "MACHU PICCHU", "MOUNT ETNA", "OLD HAVANA", "PALENQUE", "POMPEII", "REDWOOD NATIONAL PARK", "SERENGETI", "STONEHENGE", "TAJ MAHAL", "VENICE", "YELLOWSTONE"
+        ],
+        "isIncluded": false,
+        "displayName": "UNESCO Sites",
+        "levelOneName": "Travel",
+        "levelTwoName": "UNESCO Sites",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "travel_trainStations",
+        "words": [
+            "BERLIN HAUPTBAHNHOF", "CENTRAL STATION", "CHHATRAPATI SHIVAJI", "GARE DU NORD", "GRAND CENTRAL", "KINGS CROSS", "KYOTO STATION", "LEIPZIG HAUPTBAHNHOF", "MILANO CENTRALE", "MOSCOW LENINGRADSKY", "MUNICH HAUPTBAHNHOF", "PENN STATION", "ROMA TERMINI", "SAO PAULO ESTACAO", "SEOUL STATION", "SHANGHAI HONGQIAO", "SHINJUKU STATION", "TOKYO STATION", "VICTORIA STATION", "WATERLOO"
+        ],
+        "isIncluded": false,
+        "displayName": "Train Stations",
+        "levelOneName": "Travel",
+        "levelTwoName": "Train Stations",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "holidays_christmas",
+        "words": [
+            "ANGEL", "BELLS", "CANDY CANE", "CAROLS", "CHIMNEY", "CHRISTMAS TREE", "DECEMBER", "ELVES", "GARLAND", "GINGERBREAD", "HOLIDAY", "LIGHTS", "MISTLETOE", "NORTH POLE", "ORNAMENTS", "PRESENTS", "REINDEER", "RUDOLPH", "SANTA CLAUS", "SLEIGH", "SNOW", "SNOWFLAKE", "STOCKING", "TOYS", "WREATH", "YULETIDE"
+        ],
+        "isIncluded": true,
+        "displayName": "Christmas",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Christmas",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_halloween",
+        "words": [
+            "BATS", "BLACK CAT", "BOO", "CANDY", "COSTUME", "FRIGHT", "GHOST", "GHOUL", "GRAVEYARD", "HAUNTED HOUSE", "JACK O LANTERN", "MASK", "MONSTER", "MOONLIGHT", "MUMMY", "OCTOBER", "PHANTOM", "PUMPKIN", "SCARECROW", "SKELETON", "SPIDER", "SPIRITS", "TOUR", "TRICK OR TREAT", "VAMPIRE", "WEREWOLF", "WITCH", "ZOMBIE"
+        ],
+        "isIncluded": false,
+        "displayName": "Halloween",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Halloween",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_valentines",
+        "words": [
+            "CANDY", "CHOCOLATE", "CUPID", "DATE", "EMBRACE", "FLOWERS", "GIFTS", "HEART", "HUGS", "KISS", "LOVE", "LOVE LETTER", "POEM", "PRESENT", "RED ROSES", "ROMANCE", "SECRET ADMIRER", "SWEETHEART", "VALENTINE", "XOXO"
+        ],
+        "isIncluded": false,
+        "displayName": "Valentine's Day",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Valentine's Day",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_summer",
+        "words": [
+            "BARBECUE", "BEACH", "BERRIES", "CAMPING", "FIREWORKS", "FLIP FLOPS", "FRISBEE", "GOGGLES", "HEATWAVE", "ICE CREAM", "LEMONADE", "PICNIC", "POOL", "SHORTS", "SANDCASTLE", "SUNBLOCK", "SUNBURN", "SUNGLASSES", "SUNSHINE", "SWIMSUIT", "VACATION", "WATERMELON"
+        ],
+        "isIncluded": false,
+        "displayName": "Summer",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Summer",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_winter",
+        "words": [
+            "BLANKET", "COCOA", "DECEMBER", "FIREPLACE", "FROST", "GLOVES", "HOLIDAYS", "ICICLES", "MITTENS", "SCARF", "SHOVEL", "SKATES", "SLED", "SNOW", "SNOWBALL", "SNOWFLAKE", "SWEATER", "WINTER COAT", "WINTERFEST"
+        ],
+        "isIncluded": false,
+        "displayName": "Winter",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Winter",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_julyFourth",
+        "words": [
+            "AMERICA", "BALD EAGLE", "BARBECUE", "CELEBRATION", "DECLARATION", "FIREWORKS", "FLAG", "FREEDOM", "INDEPENDENCE", "LIBERTY", "MILITARY", "PARADE", "PATRIOT", "RED WHITE BLUE", "REVOLUTION", "SPARKLERS", "STARS", "STRIPES", "USA", "WHITE HOUSE"
+        ],
+        "isIncluded": false,
+        "displayName": "4th of July",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "4th of July",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_thanksgiving",
+        "words": [
+            "AUTUMN", "BLESSING", "CORNUCOPIA", "DINNER", "FAMILY", "FEAST", "GRATITUDE", "HARVEST", "HOLIDAY", "MASHED POTATOES", "NOVEMBER", "PILGRIMS", "PUMPKIN PIE", "STUFFING", "THANKFUL", "THANKSGIVING", "TRADITION", "TURKEY", "YAMS"
+        ],
+        "isIncluded": false,
+        "displayName": "Thanksgiving",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Thanksgiving",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_easter",
+        "words": [
+            "BASKET", "BUNNY", "CANDY", "CHICK", "CHURCH", "DECORATE", "DYE", "EGGS", "EASTER", "FLOWERS", "GOOD FRIDAY", "HUNT", "LAMB", "LENT", "LILY", "PASTEL", "PEEPS", "RESURRECTION", "SPRING", "SUNDAY"
+        ],
+        "isIncluded": false,
+        "displayName": "Easter",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Easter",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_newYears",
+        "words": [
+            "BALLOONS", "CELEBRATION", "CHAMPAGNE", "CLOCK", "CONFETTI", "COUNTDOWN", "DANCE", "FIREWORKS", "FESTIVE", "JANUARY", "MIDNIGHT", "NEW BEGINNINGS", "NEW YEAR", "PARTY", "RESOLUTION", "STREAMERS", "TOAST", "YEAR END"
+        ],
+        "isIncluded": false,
+        "displayName": "New Years",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "New Years",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_fall",
+        "words": [
+            "ACORNS", "APPLE CIDER", "AUTUMN", "BONFIRE", "CORN MAZE", "CRISP AIR", "FALL COLORS", "GOURDS", "HARVEST", "HAYRIDE", "LEAVES", "PUMPKIN", "RAKE", "SCARF", "SWEATER", "THANKSGIVING"
+        ],
+        "isIncluded": false,
+        "displayName": "Fall",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Fall",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "holidays_spring",
+        "words": [
+            "BLOOM", "BUTTERFLY", "CHERRY BLOSSOM", "DAFFODIL", "EASTER", "FLOWERS", "GARDEN", "GRASS", "LAMB", "MARCH", "MELT", "NEST", "POLLEN", "RAIN", "RAINBOW", "SEEDS", "SHOWERS", "SPRING CLEANING", "SUNSHINE", "TULIP"
+        ],
+        "isIncluded": false,
+        "displayName": "Spring",
+        "levelOneName": "Holidays & Seasons",
+        "levelTwoName": "Spring",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "games_board",
+        "words": [
+            "BACKGAMMON", "BATTLESHIP", "CANDY LAND", "CARCASSONNE", "CHESS", "CHECKERS", "CLUE", "CONNECT FOUR", "DOMINOES", "GUESS WHO", "LIFE", "MONOPOLY", "MOUSETRAP", "PANDEMIC", "RISK", "SCATTERGORIES", "SCRABBLE", "SORRY", "STRATEGO", "TICKET TO RIDE", "TRIVIAL PURSUIT", "TROUBLE", "UNO", "YAHTZEE"
+        ],
+        "isIncluded": true,
+        "displayName": "Board Games",
+        "levelOneName": "Puzzles & Games",
+        "levelTwoName": "Board Games",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "games_card",
+        "words": [
+            "BLACKJACK", "BRIDGE", "CANASTA", "CRIBBAGE", "EUCHRE", "FIVE CARD DRAW", "GIN RUMMY", "GO FISH", "HEARTS", "MAU MAU", "OLD MAID", "PHASE TEN", "POKER", "POKEMON", "RUMMY", "SET", "SKIP BO", "SOLITAIRE", "SPADES", "TEXAS HOLDEM", "UNO", "WAR", "WHIST"
+        ],
+        "isIncluded": false,
+        "displayName": "Card Games",
+        "levelOneName": "Puzzles & Games",
+        "levelTwoName": "Card Games",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "games_video",
+        "words": [
+            "ASSASSINS CREED", "CALL OF DUTY", "DONKEY KONG", "ELDEN RING", "FIFA", "FINAL FANTASY", "FORTNITE", "GOD OF WAR", "GRAND THEFT AUTO", "HALO", "LEGEND OF ZELDA", "MARIO KART", "MINECRAFT", "PAC MAN", "PORTAL", "POKEMON", "ROBLOX", "SONIC", "SPYRO", "STREET FIGHTER", "SUPER MARIO", "TETRIS", "THE SIMS"
+        ],
+        "isIncluded": false,
+        "displayName": "Video Games",
+        "levelOneName": "Puzzles & Games",
+        "levelTwoName": "Video Games",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "games_crossword",
+        "words": [
+            "ACROSS", "ANSWER", "BLACK SQUARE", "CLUE", "CROSSWORD", "DOWN", "FILL", "GRID", "INTERSECT", "LETTER", "PUZZLE", "REBUS", "SOLUTION", "SQUARE", "SUBJECT", "THEME", "TIMED", "TRIVIA", "VERTICAL", "WORDPLAY"
+        ],
+        "isIncluded": false,
+        "displayName": "Crossword Terms",
+        "levelOneName": "Puzzles & Games",
+        "levelTwoName": "Crossword Terms",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "games_party",
+        "words": [
+            "CHARADES", "CATEGORIES", "CELEBRITY", "CUP STACKING", "DODGEBALL", "DUCK DUCK GOOSE", "FLIP CUP", "HEDBANZ", "HOT POTATO", "MAD LIBS", "MUSICAL CHAIRS", "NEVER HAVE I EVER", "PANTOMIME", "PICTIONARY", "PIN THE TAIL", "RED ROVER", "SCAVENGER HUNT", "SHOUT IT OUT", "SIMON SAYS", "TRUTH OR DARE", "TWISTER", "WOULD YOU RATHER"
+        ],
+        "isIncluded": false,
+        "displayName": "Party Games",
+        "levelOneName": "Puzzles & Games",
+        "levelTwoName": "Party Games",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "destination_museums",
+        "words": [
+            "ACROPOLIS MUSEUM", "AMERICAN MUSEUM OF NATURAL HISTORY", "BRITISH MUSEUM", "CENTRE POMPIDOU", "EGYPTIAN MUSEUM", "GETTY CENTER", "GUGGENHEIM", "HERMITAGE MUSEUM", "LOUVRE", "METROPOLITAN MUSEUM", "MOMA", "MUSEE D ORSAY", "NATIONAL AIR AND SPACE MUSEUM", "NATIONAL GALLERY", "NATURAL HISTORY MUSEUM", "RIJKSMUSEUM", "SCIENCE MUSEUM", "SMITHSONIAN", "TATE MODERN", "UFFIZI GALLERY", "VATICAN MUSEUMS", "VAN GOGH MUSEUM"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Museums",
+        "levelOneName": "Destinations",
+        "levelTwoName": "Famous Museums",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "destination_religiousSites",
+        "words": [
+            "ANGKOR WAT", "BLUE MOSQUE", "CANTERBURY CATHEDRAL", "CHURCH OF THE HOLY SEPULCHRE", "DOME OF THE ROCK", "FATIMA SANCTUARY", "GOLDEN TEMPLE", "HAGIA SOPHIA", "LALIBELA CHURCHES", "LUMBINI", "MEIJI SHRINE", "MEKKA", "NOTRE DAME", "PETERS BASILICA", "SAINT BASILS CATHEDRAL", "SHWEDAGON PAGODA", "SISTINE CHAPEL", "TEMPLE MOUNT", "ULURU", "VATICAN CITY", "WESTMINSTER ABBEY", "WESTERN WALL"
+        ],
+        "isIncluded": false,
+        "displayName": "Religious Sites",
+        "levelOneName": "Destinations",
+        "levelTwoName": "Religious Sites",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_amRevolution",
+        "words": [
+            "BATTLE OF BUNKER HILL", "BOSTON MASSACRE", "BOSTON TEA PARTY", "CONTINENTAL ARMY", "DECLARATION OF INDEPENDENCE", "GEORGE WASHINGTON", "KING GEORGE", "LEXINGTON", "MINUTEMEN", "PAUL REVERE", "REDCOATS", "REVERE RIDE", "SAMUEL ADAMS", "SIEGE OF YORKTOWN", "STAMP ACT", "SURRENDER AT YORKTOWN", "THOMAS JEFFERSON", "THOMAS PAINE", "VALLEY FORGE"
+        ],
+        "isIncluded": true,
+        "displayName": "American Revolution",
+        "levelOneName": "History",
+        "levelTwoName": "American Revolution",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_histFigures",
+        "words": [
+            "ALEXANDER THE GREAT", "BENJAMIN FRANKLIN", "CLEOPATRA", "GALILEO", "GEORGE WASHINGTON", "GENGHIS KHAN", "JOAN OF ARC", "JULIUS CAESAR", "LEONARDO DA VINCI", "MARTIN LUTHER KING", "NAPOLEON", "NELSON MANDELA", "SOCRATES", "THOMAS EDISON", "WINSTON CHURCHILL"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Historical Figures",
+        "levelOneName": "History",
+        "levelTwoName": "Famous Historical Figures",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_ancient",
+        "words": [
+            "ACROPOLIS", "BABYLON", "CHICHEN ITZA", "COLOSSEUM", "EGYPT", "GIZA", "GLADIATOR", "GREEK PHILOSOPHY", "INDUS VALLEY", "MESOPOTAMIA", "OLYMPICS", "PERSIAN EMPIRE", "PYRAMIDS", "ROME", "SARCOPHAGUS", "SPARTA", "STONEHENGE", "TUTANKHAMUN", "ZEUS"
+        ],
+        "isIncluded": false,
+        "displayName": "Ancient",
+        "levelOneName": "History",
+        "levelTwoName": "Ancient",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_medieval",
+        "words": [
+            "BLACK DEATH", "CASTLE", "CHIVALRY", "CRUSADES", "FEUDALISM", "GOTHIC", "HUNDRED YEARS WAR", "INQUISITION", "JOAN OF ARC", "KNIGHT", "MAGNA CARTA", "MIDDLE AGES", "MONASTERY", "PLAGUE", "RENAISSANCE", "SERF", "TAPESTRY", "VIKING", "WILLIAM THE CONQUEROR"
+        ],
+        "isIncluded": false,
+        "displayName": "Medieval",
+        "levelOneName": "History",
+        "levelTwoName": "Medieval",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_military",
+        "words": [
+            "AIR FORCE", "ARMY", "ARTILLERY", "BATTLEFIELD", "BUNKER", "CAVALRY", "COMMANDER", "ENLIST", "INFANTRY", "MARINE", "MEDAL", "MILITIA", "NAVY", "PARATROOPER", "RANK", "RECRUIT", "REGIMENT", "SIEGE", "TANK", "WARFARE", "WEAPON"
+        ],
+        "isIncluded": false,
+        "displayName": "Military",
+        "levelOneName": "History",
+        "levelTwoName": "Military",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_environmental",
+        "words": [
+            "BIODIVERSITY", "CARBON FOOTPRINT", "CLIMATE CHANGE", "CONSERVATION", "DEFORESTATION", "ECOSYSTEM", "ENDANGERED", "FOSSIL FUELS", "GLOBAL WARMING", "GREENHOUSE GAS", "OCEAN POLLUTION", "OZONE LAYER", "RECYCLE", "RENEWABLE", "SOLAR ENERGY", "SUSTAINABILITY", "WATER CYCLE", "WILDLIFE"
+        ],
+        "isIncluded": false,
+        "displayName": "Evnironmental",
+        "levelOneName": "History",
+        "levelTwoName": "Evnironmental",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_art",
+        "words": [
+            "ABSTRACT", "BAROQUE", "BRUSH", "CUBISM", "DA VINCI", "EXPRESSIONISM", "GALLERY", "IMPRESSIONISM", "MEDIUM", "MICHELANGELO", "MODERNISM", "MONA LISA", "MURAL", "PAINT", "PALETTE", "PORTRAIT", "REALISM", "RENAISSANCE", "SCULPTURE", "VAN GOGH"
+        ],
+        "isIncluded": false,
+        "displayName": "Art",
+        "levelOneName": "History",
+        "levelTwoName": "Art",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_religious",
+        "words": [
+            "BIBLE", "BUDDHISM", "CHRISTIANITY", "CONFUCIANISM", "FAITH", "FASTING", "HINDUISM", "ISLAM", "JUDAISM", "MECCA", "MOSQUE", "PILGRIMAGE", "PRAYER", "QURAN", "RELIGION", "RITUAL", "SCRIPTURE", "SPIRITUAL", "TEMPLE", "ZEN"
+        ],
+        "isIncluded": false,
+        "displayName": "Religious",
+        "levelOneName": "History",
+        "levelTwoName": "Religious",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "history_worldExplorers",
+        "words": [
+            "AMERIGO VESPUCCI", "CHRISTOPHER COLUMBUS", "ERNEST SHACKLETON", "FERDINAND MAGELLAN", "FRANCIS DRAKE", "HERNAN CORTES", "JACQUES COUSTEAU", "JAMES COOK", "LEIF ERIKSON", "LOUIS JOLLIET", "MARCO POLO", "MERIWETHER LEWIS", "NEIL ARMSTRONG", "ROBERT PEARY", "VASCO DA GAMA", "YURI GAGARIN", "ZHENG HE"
+        ],
+        "isIncluded": false,
+        "displayName": "World Explorers",
+        "levelOneName": "History",
+        "levelTwoName": "World Explorers",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "events_birthday",
+        "words": [
+            "BALLOONS", "BANNER", "BIRTHDAY CAKE", "BLOWING CANDLES", "CELEBRATION", "CONFETTI", "DECORATIONS", "GIFTS", "GUEST LIST", "ICE CREAM", "INVITATION", "MUSIC", "PARTY FAVORS", "PARTY GAMES", "PARTY HATS", "PINATA", "STREAMERS", "SURPRISE", "THANK YOU CARDS", "WRAPPING PAPER"
+        ],
+        "isIncluded": true,
+        "displayName": "Birthday Parties",
+        "levelOneName": "Special Events",
+        "levelTwoName": "Birthday Parties",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "events_weddings",
+        "words": [
+            "ALTAR", "BEST MAN", "BOUTONNIERE", "BRIDE", "BRIDEMAIDS", "CAKE", "CEREMONY", "DANCE", "DECOR", "ENGAGEMENT", "FLOWERS", "GROOM", "HONEYMOON", "INVITATION", "OFFICIANT", "RECEPTION", "RING", "TUXEDO", "VOWS", "WEDDING DRESS"
+        ],
+        "isIncluded": false,
+        "displayName": "Weddings",
+        "levelOneName": "Special Events",
+        "levelTwoName": "Weddings",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "medical_operatingRoom",
+        "words": [
+            "ANESTHESIA", "CLAMP", "DEFIBRILLATOR", "GOWN", "INCISION", "IV LINE", "MASK", "MONITOR", "NURSE", "OPERATING TABLE", "SCALPEL", "SCRUB", "STETHOSCOPE", "STITCHES", "SURGEON", "SURGERY", "SUTURES", "SYRINGE", "TOURNIQUET", "VENTILATOR"
+        ],
+        "isIncluded": false,
+        "displayName": "Operating Room",
+        "levelOneName": "Medical",
+        "levelTwoName": "Operating Room",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "medical_commonDiseases",
+        "words": [
+            "ASTHMA", "BRONCHITIS", "COLD", "COVID", "DIABETES", "FLU", "HYPERTENSION", "INFLUENZA", "MIGRAINE", "OBESITY", "OSTEOPOROSIS", "PNEUMONIA", "STREP", "TOOTHACHE", "TUBERCULOSIS"
+        ],
+        "isIncluded": true,
+        "displayName": "Common Diseases",
+        "levelOneName": "Medical",
+        "levelTwoName": "Common Diseases",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "medical_uncommonDiseases",
+        "words": [
+            "ALS", "CROHNS", "DENGUE", "EBOLA", "GUILLAN BARRE", "HANTAVIRUS", "LUPUS", "MARBURG", "MENINGITIS", "MONONUCLEOSIS", "MUMPS", "RARE CANCERS", "SARS", "SCLERODERMA", "TETANUS", "TYPHOID", "YELLOW FEVER"
+        ],
+        "isIncluded": false,
+        "displayName": "Uncommon Diseases",
+        "levelOneName": "Medical",
+        "levelTwoName": "Uncommon Diseases",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "medical_doctors",
+        "words": [
+            "ALLERGIST", "ANESTHESIOLOGIST", "CARDIOLOGIST", "DERMATOLOGIST", "ENDOCRINOLOGIST", "ENT SPECIALIST", "FAMILY DOCTOR", "GASTROENTEROLOGIST", "GYNECOLOGIST", "NEUROLOGIST", "OBSTETRICIAN", "ONCOLOGIST", "OPHTHALMOLOGIST", "ORTHOPEDIST", "PEDIATRICIAN", "PSYCHIATRIST", "RADIOLOGIST", "RHEUMATOLOGIST", "SURGEON", "UROLOGIST"
+        ],
+        "isIncluded": false,
+        "displayName": "Types of Doctors",
+        "levelOneName": "Medical",
+        "levelTwoName": "Types of Doctors",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "medical_humanBody",
+        "words": [
+            "BRAIN", "EARS", "EYES", "FEMUR", "FINGERS", "HEART", "INTESTINES", "KIDNEYS", "LIVER", "LUNGS", "MUSCLES", "NERVOUS SYSTEM", "PANCREAS", "RIBS", "SKIN", "SPINE", "STOMACH", "TEETH", "TONGUE", "VEINS"
+        ],
+        "isIncluded": false,
+        "displayName": "Human Body",
+        "levelOneName": "Medical",
+        "levelTwoName": "Human Body",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "art_paintings",
+        "words": [
+            "AMERICAN GOTHIC", "BIRTH OF VENUS", "GIRL WITH A PEARL EARRING", "GUERNICA", "LAS MENINAS", "LIBERTY LEADING THE PEOPLE", "MONA LISA", "NIGHT WATCH", "SCHOOL OF ATHENS", "STARRY NIGHT", "SUNFLOWERS", "THE CREATION OF ADAM", "THE KISS", "THE LAST SUPPER", "THE PERSISTENCE OF MEMORY", "THE SCREAM", "WATER LILIES", "WHISTLERS MOTHER"
+        ],
+        "isIncluded": true,
+        "displayName": "Famous Paintings",
+        "levelOneName": "Art",
+        "levelTwoName": "Famous Paintings",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "art_painters",
+        "words": [
+            "BANKSY", "CARAVAGGIO", "CEZANNE", "DALI", "DA VINCI", "FRIDA KAHLO", "GAUGUIN", "GOYA", "JACKSON POLLOCK", "KLIMT", "MAGRITTE", "MICHELANGELO", "MONET", "PICASSO", "REMBRANDT", "RENOIR", "RUBENS", "VAN GOGH", "VERMEER", "WARHOL"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Painters",
+        "levelOneName": "Art",
+        "levelTwoName": "Famous Painters",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "art_artists",
+        "words": [
+            "AI WEIWEI", "ALEXANDER CALDER", "AUGUSTE RODIN", "BARBARA HEPWORTH", "CINDY SHERMAN", "DAMIEN HIRST", "GEORGIA OKEEFFE", "GIACOMETTI", "HENRY MOORE", "JEFF KOONS", "KEITH HARING", "LOUISE BOURGEOIS", "MARINA ABRAMOVIC", "MARK ROTHKO", "TAKASHI MURAKAMI", "TRACEY EMIN", "YAYOI KUSAMA", "YOKO ONO"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Artists",
+        "levelOneName": "Art",
+        "levelTwoName": "Famous Artists",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "politics_usPresidents",
+        "words": [
+            "GEORGE WASHINGTON","JOHN ADAMS","THOMAS JEFFERSON","JAMES MADISON","JAMES MONROE","JOHN QUINCY ADAMS","ANDREW JACKSON","MARTIN VAN BUREN","WILLIAM HENRY HARRISON","JOHN TYLER","JAMES POLK","ZACHARY TAYLOR","MILLARD FILLMORE","FRANKLIN PIERCE","JAMES BUCHANAN","ABRAHAM LINCOLN","ANDREW JOHNSON","ULYSSES GRANT","RUTHERFORD HAYES","JAMES GARFIELD","CHESTER ARTHUR","GROVER CLEVELAND","BENJAMIN HARRISON","WILLIAM MCKINLEY","THEODORE ROOSEVELT","WILLIAM HOWARD TAFT","WOODROW WILSON","WARREN HARDING","CALVIN COOLIDGE","HERBERT HOOVER","FRANKLIN D ROOSEVELT","HARRY TRUMAN","DWIGHT EISENHOWER","JOHN KENNEDY","LYNDON JOHNSON","RICHARD NIXON","GERALD FORD","JIMMY CARTER","RONALD REAGAN","GEORGE BUSH","BILL CLINTON","BARACK OBAMA","DONALD TRUMP","JOE BIDEN"
+        ],
+        "isIncluded": true,
+        "displayName": "US Presidents",
+        "levelOneName": "Politics",
+        "levelTwoName": "US Presidents",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "politics_famousPoliticians",
+        "words": [
+            "ALEXANDRIA OCASIO CORTEZ", "ANGELA MERKEL", "BENJAMIN DISRAELI", "BERNIE SANDERS", "BORIS JOHNSON", "EMMANUEL MACRON", "FRANKLIN D ROOSEVELT", "HILLARY CLINTON", "JUSTIN TRUDEAU", "MAHATMA GANDHI", "MARGARET THATCHER", "NELSON MANDELA", "RICHARD NIXON", "RONALD REAGAN", "TEDDY ROOSEVELT", "THERESE MAY", "VLADIMIR PUTIN", "WINSTON CHURCHILL", "WOODROW WILSON"
+        ],
+        "isIncluded": false,
+        "displayName": "Famous Politicians",
+        "levelOneName": "Politics",
+        "levelTwoName": "Famous Politicians",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "politics_campaigning",
+        "words": [
+            "BALLOTS", "CANVASSING", "CANDIDATE", "CAUCUS", "CONVENTION", "DEBATE", "DOOR TO DOOR", "ELECTION", "ENDORSEMENT", "FUNDRAISING", "LITERATURE DROP", "PHONE BANK", "POLLING PLACE", "PRIMARY", "RUNNING MATE", "SIGNS", "SLOGAN", "SPEECH", "VOTER REGISTRATION", "VOTING BOOTH"
+        ],
+        "isIncluded": false,
+        "displayName": "Campaigning",
+        "levelOneName": "Politics",
+        "levelTwoName": "Campaigning",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "education_satVocab",
+        "words": [
+            "ABATE", "ABERRATION", "ACQUIESCE", "AESTHETIC", "ALACRITY", "AMBIVALENT", "ANACHRONISTIC", "ANTITHESIS", "BENEVOLENT", "CACOPHONY", "CAPRICIOUS", "CAUSTIC", "CIRCUMSPECT", "CLANDESTINE", "COGENT", "CONUNDRUM", "DEFERENCE", "DEMURE", "DILATORY", "DISPARAGE"
+        ],
+        "isIncluded": false,
+        "displayName": "SAT Vocabulary",
+        "levelOneName": "Education",
+        "levelTwoName": "SAT Vocabulary",
+        "priceTier": null,
+        "themeColor": "#CCCCCC",
+        "difficulty": "Hard"
+    }
+]
