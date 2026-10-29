@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-10-29",
   "apps": [
     {
       "id": "hangman",
@@ -26,7 +26,7 @@
       "icon": "tasks.png",
       "appStoreUrl": "https://apps.apple.com/app/id6798489501",
       "playStoreUrl": null,
-      "published": false
+      "published": true
     },
     {
       "id": "pettracker",
